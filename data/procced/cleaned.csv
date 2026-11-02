@@ -1,0 +1,1926 @@
+House_ID,Location,Area_sqft,Bedrooms,Bathrooms,Age_years,Parking,Furnishing,Price_Lakhs
+816,Kondapur,3192,5,4.0,10.0,0,Fully-Furnished,67.94
+983,Madhapur,2085,4,3.0,24.0,0,Unfurnished,36.57
+1486,Kondapur,2807,4,5.0,16.0,1,Fully-Furnished,54.69
+1286,Gachibowli,2056,3,4.0,0.0,1,Semi-Furnished,48.2
+1222,Uppal,1429,2,2.0,1.0,2,Unfurnished,24.09
+264,Madhapur,2231,3,3.0,5.0,1,Semi-Furnished,49.58
+587,Secunderabad,2596,3,2.0,25.0,2,Semi-Furnished,34.31
+204,Uppal,3311,5,4.0,21.0,2,Fully-Furnished,48.19
+1997,LB Nagar,1901,2,2.0,10.0,1,Semi-Furnished,26.3
+1555,Madhapur,2246,3,3.0,19.0,2,Semi-Furnished,50.61
+1294,Jubilee Hills,1803,2,2.0,3.0,1,Fully-Furnished,60.04
+1854,Uppal,814,1,1.0,22.0,1,Fully-Furnished,17.02
+1155,LB Nagar,2435,4,3.0,11.0,2,Unfurnished,31.68
+417,Secunderabad,782,1,2.0,21.0,1,Semi-Furnished,14.22
+1865,Banjara Hills,2103,4,4.0,15.0,1,Semi-Furnished,55.93
+574,Banjara Hills,2801,4,4.0,4.0,2,Semi-Furnished,84.17
+1241,Uppal,2809,5,5.0,13.0,2,Fully-Furnished,48.72
+1725,LB Nagar,2795,4,3.0,2.0,0,Unfurnished,33.26
+1301,LB Nagar,2982,4,4.0,8.0,1,Semi-Furnished,42.67
+313,Jubilee Hills,647,1,1.0,6.0,1,Semi-Furnished,21.75
+914,Banjara Hills,2182,3,3.0,18.0,2,Semi-Furnished,61.96
+1534,LB Nagar,2948,4,4.0,3.0,1,Fully-Furnished,48.86
+1435,Secunderabad,2051,3,2.0,2.0,2,Semi-Furnished,35.95
+104,LB Nagar,2996,5,5.0,18.0,1,Unfurnished,39.91
+379,Secunderabad,2671,5,5.0,10.0,1,Fully-Furnished,52.28
+2000,Madhapur,2161,3,3.0,12.0,1,Semi-Furnished,49.35
+455,Banjara Hills,2254,3,3.0,3.0,1,Semi-Furnished,67.59
+1809,LB Nagar,2136,3,4.0,19.0,1,Semi-Furnished,32.76
+1316,LB Nagar,2711,4,3.0,13.0,1,Unfurnished,30.44
+1869,Kukatpally,1446,2,3.0,8.0,1,Fully-Furnished,31.63
+1599,Banjara Hills,2873,5,4.0,0.0,2,Semi-Furnished,86.53
+516,Secunderabad,2401,4,4.0,11.0,1,Unfurnished,37.11
+1374,Banjara Hills,2694,4,4.0,19.0,2,Fully-Furnished,77.1
+375,LB Nagar,2188,4,3.0,25.0,0,Unfurnished,23.72
+1806,Miyapur,636,2,2.0,1.0,1,Semi-Furnished,16.07
+1530,Miyapur,697,1,1.0,21.0,2,Semi-Furnished,15.04
+1786,Kukatpally,744,1,2.0,12.0,2,Semi-Furnished,18.47
+4,Kukatpally,1498,2,3.0,12.0,1,Semi-Furnished,29.13
+1197,Uppal,2135,3,4.0,4.0,1,Semi-Furnished,38.43
+1996,Madhapur,906,1,2.0,10.0,1,Fully-Furnished,26.61
+86,Banjara Hills,1299,1,2.0,12.0,1,Fully-Furnished,40.95
+1813,Gachibowli,2287,3,3.0,9.0,2,Fully-Furnished,54.22
+1976,Gachibowli,3332,5,5.0,23.0,1,Fully-Furnished,60.71
+1928,LB Nagar,2173,3,4.0,21.0,1,Semi-Furnished,35.02
+710,Miyapur,2579,4,4.0,10.0,2,Semi-Furnished,45.12
+1898,Kukatpally,974,1,2.0,11.0,0,Semi-Furnished,17.32
+265,Jubilee Hills,1045,1,1.0,5.0,0,Unfurnished,26.81
+611,Kukatpally,3473,5,5.0,12.0,2,Fully-Furnished,59.28
+506,Uppal,3047,4,5.0,20.0,1,Unfurnished,39.23
+1617,Jubilee Hills,1057,2,2.0,23.0,0,Unfurnished,27.44
+1920,Secunderabad,753,1,1.0,9.0,1,Unfurnished,11.74
+1432,Madhapur,2630,4,4.0,16.0,2,Semi-Furnished,54.22
+1640,Jubilee Hills,2495,4,4.0,12.0,1,Fully-Furnished,75.68
+1714,Kondapur,2092,2,3.0,22.0,1,Fully-Furnished,42.36
+82,Jubilee Hills,1607,2,2.0,11.0,1,Fully-Furnished,47.62
+1440,Kondapur,661,1,2.0,10.0,2,Semi-Furnished,19.9
+920,Kukatpally,780,1,1.0,17.0,1,Semi-Furnished,14.05
+1860,Kondapur,1924,3,3.0,0.0,1,Semi-Furnished,36.85
+457,Kondapur,3484,5,5.0,24.0,0,Fully-Furnished,56.39
+1470,Miyapur,682,1,1.0,7.0,1,Semi-Furnished,13.7
+972,Gachibowli,1778,3,3.0,8.0,1,Semi-Furnished,35.76
+84,Gachibowli,955,2,1.0,6.0,1,Unfurnished,18.79
+401,Kukatpally,1162,2,2.0,8.0,2,Unfurnished,20.99
+964,LB Nagar,540,1,2.0,24.0,1,Semi-Furnished,17.37
+844,Madhapur,2215,3,2.0,23.0,1,Fully-Furnished,46.73
+1730,Uppal,2446,4,5.0,18.0,1,Fully-Furnished,43.85
+1646,LB Nagar,1944,3,2.0,0.0,1,Semi-Furnished,22.58
+141,Secunderabad,1292,2,3.0,10.0,0,Semi-Furnished,20.92
+839,Miyapur,1741,3,2.0,11.0,2,Unfurnished,25.64
+288,Kukatpally,2779,4,4.0,12.0,2,Semi-Furnished,45.27
+885,Secunderabad,2444,3,2.0,24.0,1,Semi-Furnished,33.43
+333,Secunderabad,2685,4,4.0,23.0,2,Unfurnished,44.45
+1090,Kondapur,682,1,1.0,17.0,2,Fully-Furnished,19.98
+169,LB Nagar,1345,3,3.0,5.0,1,Semi-Furnished,23.39
+113,Kukatpally,905,1,1.0,23.0,0,Unfurnished,10.74
+891,Kondapur,1836,3,2.0,24.0,0,Fully-Furnished,31.81
+320,Kondapur,898,2,3.0,1.0,1,Fully-Furnished,28.49
+1744,Kukatpally,2550,4,4.0,15.0,2,Fully-Furnished,44.9
+32,Madhapur,2975,5,5.0,5.0,1,Fully-Furnished,73.06
+505,Jubilee Hills,1578,3,4.0,3.0,1,Fully-Furnished,60.61
+382,Banjara Hills,2503,4,4.0,9.0,1,Fully-Furnished,85.72
+926,Jubilee Hills,2250,2,1.0,12.0,1,Semi-Furnished,64.31
+1775,Kondapur,2501,3,3.0,2.0,1,Semi-Furnished,45.46
+211,Madhapur,1882,3,3.0,12.0,2,Unfurnished,42.57
+1066,Kukatpally,1713,3,3.0,20.0,2,Unfurnished,28.97
+494,LB Nagar,3489,5,5.0,8.0,0,Semi-Furnished,43.26
+745,Madhapur,2926,4,3.0,20.0,2,Semi-Furnished,65.16
+822,Jubilee Hills,1145,1,1.0,14.0,0,Unfurnished,27.9
+1208,Kukatpally,2310,3,4.0,9.0,1,Unfurnished,36.49
+70,Jubilee Hills,2179,4,5.0,3.0,2,Unfurnished,74.6
+1035,Jubilee Hills,1884,3,3.0,9.0,1,Fully-Furnished,60.06
+597,Kondapur,1140,2,3.0,9.0,2,Unfurnished,28.58
+1364,Kondapur,864,1,1.0,17.0,0,Semi-Furnished,14.66
+534,Madhapur,1706,3,2.0,19.0,0,Fully-Furnished,36.82
+1215,LB Nagar,2942,4,4.0,22.0,2,Semi-Furnished,37.75
+1098,Gachibowli,2674,3,2.0,6.0,1,Unfurnished,51.01
+1881,Secunderabad,1051,2,3.0,11.0,2,Fully-Furnished,31.36
+62,Uppal,3217,5,5.0,0.0,0,Semi-Furnished,43.76
+1009,Secunderabad,2573,4,4.0,0.0,1,Semi-Furnished,42.93
+791,Secunderabad,2310,3,4.0,0.0,2,Semi-Furnished,44.95
+1803,Uppal,2377,4,3.0,24.0,0,Semi-Furnished,31.08
+298,Uppal,1355,1,1.0,2.0,2,Semi-Furnished,19.86
+1064,Secunderabad,1825,3,3.0,10.0,1,Semi-Furnished,30.77
+1808,Secunderabad,2621,4,4.0,19.0,1,Unfurnished,38.25
+566,Secunderabad,999,1,1.0,16.0,1,Fully-Furnished,20.39
+489,Miyapur,2523,4,5.0,24.0,2,Semi-Furnished,46.12
+205,Madhapur,1108,1,1.0,13.0,1,Semi-Furnished,24.33
+693,Kukatpally,1580,2,2.0,0.0,0,Semi-Furnished,28.37
+323,Kondapur,3046,3,4.0,1.0,1,Semi-Furnished,59.9
+1408,Jubilee Hills,2072,3,3.0,9.0,1,Semi-Furnished,71.83
+1105,Madhapur,2992,4,3.0,8.0,2,Unfurnished,69.76
+1924,Gachibowli,1199,2,2.0,8.0,2,Unfurnished,24.2
+59,Uppal,707,1,2.0,9.0,2,Semi-Furnished,18.47
+825,Miyapur,1973,2,2.0,13.0,1,Semi-Furnished,29.07
+1424,Jubilee Hills,2514,4,4.0,24.0,1,Unfurnished,62.17
+28,Madhapur,3108,5,5.0,20.0,1,Unfurnished,67.8
+1110,Kondapur,1019,1,2.0,2.0,0,Fully-Furnished,25.15
+900,LB Nagar,1638,2,2.0,4.0,1,Fully-Furnished,26.35
+1770,Banjara Hills,2821,4,3.0,16.0,1,Fully-Furnished,76.68
+1584,Kukatpally,828,2,2.0,11.0,1,Semi-Furnished,18.66
+657,LB Nagar,1605,3,2.0,10.0,2,Semi-Furnished,26.37
+195,Uppal,2630,5,5.0,2.0,2,Fully-Furnished,50.83
+1963,Kukatpally,771,1,1.0,1.0,0,Semi-Furnished,13.77
+897,Jubilee Hills,2287,4,4.0,22.0,1,Semi-Furnished,68.05
+1201,Jubilee Hills,2987,5,5.0,5.0,0,Unfurnished,86.81
+1755,Jubilee Hills,1362,1,1.0,7.0,1,Semi-Furnished,43.46
+232,Gachibowli,1706,3,3.0,10.0,1,Unfurnished,34.61
+1850,Kukatpally,653,1,1.0,25.0,0,Semi-Furnished,10.23
+212,Miyapur,1903,3,3.0,24.0,1,Unfurnished,26.28
+394,Secunderabad,3490,5,5.0,9.0,1,Semi-Furnished,56.92
+57,Kondapur,1516,2,2.0,24.0,1,Semi-Furnished,30.18
+621,Miyapur,769,1,1.0,14.0,1,Semi-Furnished,15.44
+805,Jubilee Hills,1625,2,1.0,10.0,2,Unfurnished,47.27
+762,Gachibowli,2467,4,4.0,3.0,1,Semi-Furnished,52.7
+1258,Jubilee Hills,2916,5,4.0,6.0,2,Unfurnished,81.21
+558,LB Nagar,2082,3,2.0,16.0,1,Unfurnished,22.62
+240,Madhapur,2411,4,5.0,3.0,2,Fully-Furnished,64.37
+374,Madhapur,2730,4,4.0,16.0,2,Semi-Furnished,59.89
+1036,Secunderabad,2292,4,3.0,4.0,2,Semi-Furnished,38.86
+171,Madhapur,2351,4,4.0,20.0,0,Unfurnished,46.05
+465,Secunderabad,3149,4,5.0,18.0,2,Unfurnished,44.5
+71,Banjara Hills,736,1,1.0,3.0,0,Semi-Furnished,20.55
+1807,Kondapur,2968,4,4.0,18.0,1,Semi-Furnished,53.21
+854,Uppal,1395,2,3.0,8.0,2,Semi-Furnished,24.98
+896,Gachibowli,892,1,1.0,4.0,1,Semi-Furnished,19.92
+291,Kukatpally,1258,2,3.0,8.0,2,Semi-Furnished,27.91
+1366,Kondapur,3058,4,4.0,8.0,1,Fully-Furnished,57.42
+270,Kukatpally,2268,3,2.0,13.0,0,Semi-Furnished,32.93
+1703,Kondapur,960,2,1.0,3.0,2,Unfurnished,21.18
+66,Secunderabad,1156,2,2.0,10.0,1,Unfurnished,18.45
+1925,Miyapur,3113,5,4.0,1.0,0,Fully-Furnished,46.73
+591,Kukatpally,2903,3,4.0,21.0,0,Semi-Furnished,42.76
+1717,Gachibowli,3036,4,3.0,22.0,1,Semi-Furnished,53.42
+1705,Miyapur,1591,2,1.0,21.0,2,Semi-Furnished,22.81
+1546,Uppal,1624,2,3.0,12.0,2,Unfurnished,25.52
+1571,Secunderabad,726,1,1.0,16.0,0,Unfurnished,9.35
+1915,Miyapur,3175,4,5.0,6.0,0,Fully-Furnished,51.72
+412,Jubilee Hills,1269,1,3.0,7.0,2,Fully-Furnished,40.94
+801,Gachibowli,1169,2,3.0,12.0,0,Semi-Furnished,27.75
+421,Miyapur,1567,2,2.0,10.0,2,Semi-Furnished,24.32
+950,Madhapur,3483,5,5.0,24.0,1,Semi-Furnished,74.59
+1146,Miyapur,3260,4,3.0,8.0,2,Semi-Furnished,45.25
+687,Uppal,697,1,1.0,5.0,1,Semi-Furnished,13.84
+889,Kondapur,1032,2,2.0,6.0,0,Fully-Furnished,24.76
+1339,Secunderabad,3167,5,5.0,0.0,0,Semi-Furnished,51.09
+1490,Banjara Hills,1989,3,3.0,19.0,1,Semi-Furnished,48.67
+285,Uppal,2576,3,3.0,12.0,2,Unfurnished,32.07
+704,Uppal,1110,1,3.0,12.0,2,Semi-Furnished,19.02
+1288,Kukatpally,638,1,2.0,17.0,1,Fully-Furnished,18.7
+167,Secunderabad,591,1,1.0,3.0,1,Semi-Furnished,14.1
+230,Jubilee Hills,3145,5,4.0,22.0,0,Unfurnished,85.44
+356,Uppal,2696,5,5.0,12.0,1,Fully-Furnished,43.4
+1848,Jubilee Hills,2661,4,3.0,7.0,1,Fully-Furnished,83.31
+29,LB Nagar,3375,4,4.0,18.0,2,Unfurnished,44.5
+632,Kukatpally,2219,3,4.0,9.0,0,Semi-Furnished,37.8
+147,Jubilee Hills,2305,4,4.0,0.0,1,Unfurnished,66.12
+17,Kondapur,2264,3,2.0,4.0,0,Unfurnished,37.14
+1951,Jubilee Hills,1635,3,2.0,6.0,0,Semi-Furnished,51.49
+1493,Madhapur,1349,3,4.0,6.0,1,Fully-Furnished,41.65
+1761,Jubilee Hills,1775,4,4.0,0.0,1,Fully-Furnished,60.51
+1669,Madhapur,1979,3,3.0,12.0,0,Fully-Furnished,45.6
+1735,Kondapur,2081,3,2.0,2.0,1,Semi-Furnished,36.81
+551,Uppal,1783,3,3.0,15.0,0,Unfurnished,24.33
+916,Kukatpally,2546,4,4.0,16.0,1,Semi-Furnished,40.72
+60,Secunderabad,3165,4,3.0,16.0,1,Unfurnished,39.5
+1502,Miyapur,2309,4,3.0,1.0,2,Semi-Furnished,38.47
+731,Kukatpally,1380,2,2.0,11.0,0,Semi-Furnished,23.19
+870,Madhapur,655,1,1.0,2.0,2,Semi-Furnished,20.95
+1267,Madhapur,1801,3,3.0,24.0,1,Fully-Furnished,38.71
+1291,Banjara Hills,2022,3,4.0,10.0,1,Semi-Furnished,56.93
+1315,Miyapur,3160,4,4.0,19.0,1,Semi-Furnished,42.52
+1140,LB Nagar,2366,4,5.0,1.0,1,Fully-Furnished,41.47
+132,LB Nagar,3125,5,5.0,6.0,1,Semi-Furnished,43.21
+1363,Banjara Hills,1402,2,2.0,10.0,1,Unfurnished,37.38
+1742,Madhapur,2432,3,3.0,1.0,2,Unfurnished,56.35
+1793,Kondapur,507,1,1.0,13.0,1,Semi-Furnished,13.46
+122,Secunderabad,3225,4,4.0,10.0,1,Unfurnished,50.46
+1070,Miyapur,1391,1,1.0,11.0,1,Semi-Furnished,20.57
+1572,Madhapur,1759,3,4.0,11.0,1,Unfurnished,38.73
+1594,Uppal,2251,4,4.0,25.0,2,Fully-Furnished,38.54
+690,Kondapur,1352,2,2.0,25.0,1,Fully-Furnished,30.68
+563,Madhapur,1101,2,2.0,10.0,2,Unfurnished,24.72
+898,Banjara Hills,1344,2,2.0,11.0,2,Unfurnished,38.8
+1016,Jubilee Hills,2311,4,5.0,22.0,1,Unfurnished,66.66
+1298,Secunderabad,3413,4,5.0,15.0,1,Unfurnished,50.2
+922,Secunderabad,3403,5,5.0,8.0,1,Semi-Furnished,57.0
+1338,Gachibowli,1165,2,2.0,12.0,1,Unfurnished,24.76
+846,Banjara Hills,540,1,1.0,18.0,1,Semi-Furnished,15.91
+1176,Gachibowli,1630,2,1.0,24.0,0,Unfurnished,22.7
+1802,LB Nagar,3301,4,3.0,7.0,1,Fully-Furnished,40.77
+744,Madhapur,3148,4,4.0,2.0,0,Semi-Furnished,74.03
+1720,Banjara Hills,2276,3,2.0,9.0,0,Semi-Furnished,63.51
+26,Gachibowli,1207,2,3.0,2.0,0,Semi-Furnished,29.27
+1781,LB Nagar,1296,1,1.0,3.0,1,Fully-Furnished,18.43
+1637,Uppal,3012,5,5.0,12.0,2,Semi-Furnished,50.15
+875,Gachibowli,2183,4,4.0,17.0,2,Unfurnished,41.92
+1463,Madhapur,3328,5,5.0,0.0,1,Semi-Furnished,77.7
+1549,Kukatpally,2308,3,4.0,20.0,0,Fully-Furnished,42.54
+1054,Banjara Hills,1814,2,1.0,25.0,1,Unfurnished,39.47
+199,Kondapur,1679,3,4.0,1.0,1,Fully-Furnished,41.84
+1184,Uppal,2389,4,3.0,25.0,1,Semi-Furnished,35.67
+567,Secunderabad,2096,3,3.0,14.0,2,Unfurnished,31.24
+294,Madhapur,3273,4,3.0,9.0,1,Semi-Furnished,74.22
+1400,Madhapur,2811,4,3.0,8.0,1,Semi-Furnished,63.44
+351,LB Nagar,618,1,1.0,3.0,2,Unfurnished,10.88
+1827,Gachibowli,1961,3,2.0,16.0,0,Semi-Furnished,35.69
+5,LB Nagar,1199,2,1.0,11.0,1,Fully-Furnished,19.54
+1927,Jubilee Hills,1880,3,4.0,4.0,2,Fully-Furnished,64.57
+1855,Miyapur,1564,3,4.0,7.0,1,Semi-Furnished,30.19
+1127,Kondapur,2959,5,5.0,20.0,2,Semi-Furnished,61.67
+1696,Madhapur,2094,4,4.0,24.0,1,Unfurnished,45.69
+102,Gachibowli,2510,3,3.0,20.0,1,Unfurnished,48.82
+181,LB Nagar,2834,4,3.0,0.0,0,Unfurnished,32.25
+1674,Uppal,988,1,1.0,4.0,1,Fully-Furnished,16.66
+1044,Jubilee Hills,782,1,1.0,11.0,1,Fully-Furnished,26.82
+843,LB Nagar,2198,3,4.0,21.0,0,Fully-Furnished,31.28
+1436,Jubilee Hills,1589,2,1.0,8.0,1,Unfurnished,46.28
+1905,LB Nagar,1890,3,4.0,12.0,1,Unfurnished,28.44
+1887,Madhapur,583,1,2.0,23.0,1,Unfurnished,14.03
+1991,Secunderabad,1394,2,3.0,14.0,1,Unfurnished,23.27
+1326,Kukatpally,2942,4,5.0,9.0,1,Fully-Furnished,50.46
+1754,Secunderabad,2046,3,4.0,19.0,1,Unfurnished,32.88
+1410,Miyapur,3458,5,4.0,11.0,2,Semi-Furnished,58.64
+1960,Banjara Hills,3208,5,5.0,18.0,1,Unfurnished,83.42
+1329,LB Nagar,1476,2,2.0,20.0,2,Fully-Furnished,24.95
+1128,Madhapur,1435,3,2.0,21.0,1,Fully-Furnished,35.62
+145,Gachibowli,663,1,1.0,4.0,2,Fully-Furnished,23.99
+87,Madhapur,1684,3,4.0,1.0,0,Semi-Furnished,41.16
+74,Kukatpally,1129,2,2.0,22.0,1,Fully-Furnished,24.38
+289,Gachibowli,1288,1,1.0,23.0,2,Fully-Furnished,28.55
+1264,Secunderabad,2023,3,3.0,22.0,0,Unfurnished,25.17
+788,Madhapur,2807,4,4.0,12.0,0,Unfurnished,61.56
+1347,Madhapur,1739,3,3.0,14.0,2,Fully-Furnished,46.79
+661,Kukatpally,870,1,2.0,21.0,1,Semi-Furnished,19.26
+1768,Gachibowli,856,1,1.0,9.0,1,Semi-Furnished,18.35
+1083,Madhapur,1867,3,2.0,25.0,1,Semi-Furnished,36.81
+1429,Banjara Hills,2515,3,4.0,21.0,2,Semi-Furnished,71.6
+679,Gachibowli,2590,4,3.0,12.0,2,Semi-Furnished,47.34
+1838,Kukatpally,2129,3,2.0,8.0,2,Unfurnished,34.86
+1577,Miyapur,2757,4,4.0,23.0,0,Fully-Furnished,39.65
+887,LB Nagar,2329,3,3.0,16.0,0,Fully-Furnished,32.97
+1893,Kukatpally,1891,3,4.0,0.0,1,Unfurnished,37.21
+603,Uppal,1185,1,3.0,9.0,1,Unfurnished,14.01
+493,Banjara Hills,2585,5,5.0,1.0,0,Semi-Furnished,75.86
+266,Miyapur,2087,3,3.0,21.0,2,Unfurnished,29.43
+194,Gachibowli,1482,1,1.0,23.0,1,Semi-Furnished,24.61
+305,Madhapur,2648,4,3.0,12.0,1,Fully-Furnished,60.77
+643,Gachibowli,2501,4,4.0,3.0,1,Semi-Furnished,53.13
+1213,Jubilee Hills,2002,3,4.0,18.0,2,Semi-Furnished,62.51
+1933,Gachibowli,711,1,2.0,16.0,0,Unfurnished,14.0
+1093,Gachibowli,2227,3,2.0,6.0,2,Semi-Furnished,43.08
+222,Jubilee Hills,3030,4,3.0,11.0,2,Semi-Furnished,83.6
+670,Secunderabad,1394,2,1.0,12.0,0,Unfurnished,16.76
+200,Uppal,689,1,2.0,14.0,1,Unfurnished,13.1
+410,Kukatpally,3081,4,5.0,18.0,1,Unfurnished,46.65
+906,Banjara Hills,3435,5,5.0,25.0,2,Fully-Furnished,88.08
+1053,Uppal,641,1,1.0,6.0,1,Fully-Furnished,16.19
+1564,Banjara Hills,3087,4,4.0,25.0,1,Fully-Furnished,77.16
+1766,Kukatpally,1855,3,3.0,9.0,2,Fully-Furnished,38.28
+1822,LB Nagar,848,1,1.0,20.0,1,Unfurnished,10.73
+852,Miyapur,3500,5,5.0,24.0,1,Unfurnished,46.39
+1683,Gachibowli,1015,1,2.0,23.0,0,Unfurnished,17.29
+1593,Kondapur,661,1,2.0,25.0,2,Unfurnished,16.08
+1082,Banjara Hills,2300,2,1.0,18.0,1,Semi-Furnished,55.75
+792,Uppal,3091,4,4.0,13.0,0,Unfurnished,35.44
+1224,Madhapur,1332,2,3.0,22.0,2,Unfurnished,32.38
+578,Madhapur,3110,5,5.0,19.0,1,Semi-Furnished,66.42
+1073,Miyapur,2330,4,4.0,8.0,1,Semi-Furnished,38.82
+158,Madhapur,1548,2,1.0,25.0,2,Fully-Furnished,32.75
+1784,Kukatpally,1118,2,3.0,4.0,2,Fully-Furnished,30.54
+210,Madhapur,2648,5,4.0,25.0,1,Fully-Furnished,56.55
+106,Kukatpally,1334,1,1.0,5.0,2,Semi-Furnished,22.16
+720,Miyapur,2178,3,3.0,25.0,1,Semi-Furnished,35.26
+209,Secunderabad,3332,5,4.0,4.0,1,Semi-Furnished,50.97
+958,LB Nagar,2177,4,4.0,2.0,1,Fully-Furnished,38.96
+1699,Secunderabad,525,1,1.0,1.0,1,Fully-Furnished,17.03
+809,Miyapur,746,1,2.0,11.0,1,Semi-Furnished,15.99
+1202,Uppal,3480,4,4.0,17.0,1,Fully-Furnished,46.09
+472,Miyapur,3134,5,5.0,9.0,2,Semi-Furnished,56.36
+1901,Uppal,770,2,2.0,17.0,2,Semi-Furnished,18.91
+1840,Jubilee Hills,773,1,1.0,4.0,2,Semi-Furnished,26.76
+761,Kondapur,1058,2,3.0,19.0,2,Fully-Furnished,32.01
+479,Kukatpally,1904,3,3.0,4.0,1,Semi-Furnished,34.12
+738,Banjara Hills,2077,3,3.0,8.0,0,Semi-Furnished,57.43
+1320,LB Nagar,1640,2,2.0,25.0,1,Semi-Furnished,21.65
+878,Kukatpally,1467,2,2.0,17.0,2,Fully-Furnished,29.38
+1194,Secunderabad,3219,4,4.0,22.0,0,Semi-Furnished,47.13
+1511,Uppal,3487,5,5.0,6.0,1,Fully-Furnished,59.39
+182,Kukatpally,2040,3,3.0,13.0,2,Unfurnished,34.83
+1133,Kukatpally,2588,4,4.0,10.0,2,Unfurnished,43.04
+363,Uppal,2216,3,3.0,1.0,0,Semi-Furnished,33.13
+1659,Jubilee Hills,983,2,2.0,8.0,2,Unfurnished,33.02
+1151,Miyapur,1128,2,2.0,25.0,0,Semi-Furnished,16.21
+272,Banjara Hills,2448,2,2.0,25.0,2,Semi-Furnished,60.66
+100,Banjara Hills,840,1,1.0,4.0,0,Semi-Furnished,23.84
+1355,Secunderabad,2214,3,4.0,0.0,1,Semi-Furnished,40.26
+1648,Miyapur,2024,3,3.0,5.0,1,Semi-Furnished,32.18
+1955,Banjara Hills,2409,4,4.0,4.0,0,Semi-Furnished,71.79
+979,Banjara Hills,2815,4,5.0,13.0,0,Unfurnished,81.69
+198,Miyapur,1852,1,1.0,0.0,1,Fully-Furnished,28.94
+1406,LB Nagar,1588,2,1.0,18.0,1,Semi-Furnished,20.06
+304,Kukatpally,2634,5,5.0,14.0,1,Semi-Furnished,45.43
+1156,LB Nagar,2843,4,5.0,18.0,0,Unfurnished,33.25
+47,Kondapur,1732,2,1.0,13.0,1,Semi-Furnished,26.5
+569,LB Nagar,2597,4,3.0,9.0,2,Semi-Furnished,37.55
+1620,Secunderabad,3415,5,4.0,14.0,0,Semi-Furnished,50.3
+248,Banjara Hills,2885,4,5.0,12.0,1,Semi-Furnished,75.87
+650,Gachibowli,3039,5,4.0,18.0,1,Semi-Furnished,56.5
+1072,Gachibowli,1101,2,1.0,14.0,0,Unfurnished,19.03
+229,Secunderabad,2544,5,4.0,24.0,0,Unfurnished,34.07
+676,Madhapur,2187,4,4.0,12.0,1,Unfurnished,46.39
+488,Madhapur,1321,1,1.0,11.0,1,Fully-Furnished,31.89
+634,Kondapur,3143,5,5.0,25.0,1,Fully-Furnished,59.01
+1323,Madhapur,2345,4,3.0,6.0,1,Semi-Furnished,48.85
+1923,Kondapur,1324,1,1.0,15.0,1,Unfurnished,21.34
+980,Kukatpally,1558,2,1.0,0.0,1,Semi-Furnished,23.25
+1632,Gachibowli,1901,3,4.0,24.0,1,Semi-Furnished,38.11
+340,Secunderabad,2876,4,5.0,20.0,1,Semi-Furnished,47.03
+1918,Madhapur,1080,1,1.0,22.0,2,Semi-Furnished,24.97
+301,Kukatpally,1939,3,3.0,2.0,2,Fully-Furnished,36.56
+550,Kukatpally,697,1,1.0,4.0,1,Fully-Furnished,18.15
+318,Banjara Hills,2174,3,3.0,8.0,2,Unfurnished,56.58
+1595,Jubilee Hills,1275,2,2.0,3.0,0,Unfurnished,39.01
+1934,Secunderabad,2038,3,3.0,12.0,1,Unfurnished,35.27
+649,Uppal,1949,3,4.0,18.0,1,Semi-Furnished,32.03
+1312,Kondapur,1807,3,3.0,4.0,2,Semi-Furnished,36.74
+582,Banjara Hills,1421,2,1.0,4.0,1,Semi-Furnished,38.88
+1069,Gachibowli,903,1,3.0,23.0,1,Fully-Furnished,22.7
+176,Gachibowli,542,1,1.0,24.0,1,Semi-Furnished,14.04
+500,Madhapur,3130,5,5.0,1.0,1,Unfurnished,69.17
+1616,Gachibowli,2600,3,2.0,5.0,2,Semi-Furnished,51.45
+312,Kondapur,2168,4,5.0,17.0,2,Semi-Furnished,52.11
+1886,Jubilee Hills,1373,3,4.0,7.0,1,Fully-Furnished,51.31
+977,Miyapur,2979,4,4.0,1.0,1,Unfurnished,45.14
+757,Gachibowli,2711,4,5.0,15.0,1,Semi-Furnished,55.77
+335,Secunderabad,1491,3,3.0,18.0,1,Unfurnished,23.14
+760,Secunderabad,1404,2,2.0,19.0,0,Semi-Furnished,22.22
+1509,Gachibowli,2937,4,4.0,10.0,2,Semi-Furnished,63.93
+523,Miyapur,1837,2,3.0,17.0,2,Semi-Furnished,32.29
+368,Kukatpally,1749,3,3.0,16.0,1,Semi-Furnished,28.49
+882,Uppal,2102,3,3.0,6.0,1,Semi-Furnished,31.78
+247,Gachibowli,3040,5,5.0,24.0,0,Unfurnished,54.73
+1210,Uppal,2511,4,5.0,13.0,0,Unfurnished,33.05
+138,Kukatpally,765,1,2.0,5.0,2,Semi-Furnished,21.69
+6,Secunderabad,2849,5,5.0,16.0,2,Semi-Furnished,49.83
+329,Gachibowli,2897,5,4.0,4.0,1,Unfurnished,65.73
+633,Jubilee Hills,2142,3,3.0,1.0,1,Unfurnished,65.36
+444,Miyapur,1014,2,2.0,1.0,2,Semi-Furnished,23.73
+1844,Uppal,2503,3,3.0,17.0,1,Fully-Furnished,35.41
+51,Madhapur,615,1,1.0,3.0,0,Semi-Furnished,15.87
+1193,Kukatpally,3107,4,5.0,2.0,1,Unfurnished,48.85
+604,Madhapur,2351,3,3.0,15.0,0,Semi-Furnished,46.72
+1112,Banjara Hills,673,1,1.0,0.0,2,Semi-Furnished,23.33
+1756,Gachibowli,2191,3,2.0,9.0,1,Semi-Furnished,40.54
+1152,Secunderabad,2128,3,3.0,23.0,1,Semi-Furnished,34.39
+915,Jubilee Hills,2065,4,4.0,19.0,0,Fully-Furnished,65.05
+267,Gachibowli,1123,2,2.0,2.0,1,Semi-Furnished,29.09
+476,Banjara Hills,1624,2,2.0,14.0,1,Fully-Furnished,45.13
+411,Uppal,3407,4,4.0,3.0,1,Unfurnished,44.82
+1263,Banjara Hills,3185,4,3.0,21.0,2,Fully-Furnished,80.34
+1726,Kukatpally,2089,3,2.0,18.0,1,Semi-Furnished,30.11
+1539,Uppal,2510,3,4.0,12.0,2,Fully-Furnished,40.26
+1361,Gachibowli,2546,3,3.0,16.0,1,Semi-Furnished,48.41
+491,Gachibowli,2952,4,4.0,5.0,0,Semi-Furnished,61.94
+1536,Miyapur,2765,5,5.0,2.0,2,Semi-Furnished,52.8
+38,LB Nagar,566,1,1.0,15.0,0,Fully-Furnished,12.09
+290,Gachibowli,1214,3,4.0,23.0,2,Fully-Furnished,37.32
+127,Miyapur,633,2,2.0,25.0,1,Semi-Furnished,15.9
+357,Secunderabad,1151,1,1.0,12.0,0,Semi-Furnished,16.02
+350,Kondapur,877,1,2.0,13.0,1,Semi-Furnished,19.48
+1670,Kondapur,1582,2,3.0,0.0,2,Fully-Furnished,38.0
+81,LB Nagar,648,1,1.0,0.0,2,Unfurnished,11.82
+1356,Jubilee Hills,2472,4,5.0,24.0,1,Semi-Furnished,75.44
+1106,Kondapur,2452,4,5.0,6.0,1,Unfurnished,45.86
+1464,Banjara Hills,2056,3,3.0,11.0,0,Semi-Furnished,59.86
+1122,Kukatpally,3186,5,5.0,20.0,1,Semi-Furnished,48.05
+1612,Kondapur,2601,4,3.0,25.0,1,Semi-Furnished,44.4
+877,Uppal,2548,5,5.0,8.0,1,Semi-Furnished,41.7
+441,LB Nagar,2676,4,5.0,21.0,1,Semi-Furnished,41.66
+217,Banjara Hills,921,2,3.0,18.0,2,Semi-Furnished,34.57
+1587,Banjara Hills,2505,5,5.0,2.0,1,Semi-Furnished,78.5
+607,Secunderabad,2187,4,5.0,20.0,2,Fully-Furnished,43.63
+1624,Uppal,2658,5,5.0,19.0,2,Semi-Furnished,40.44
+161,Uppal,3464,5,5.0,21.0,0,Semi-Furnished,45.31
+703,Kondapur,1070,1,1.0,5.0,0,Semi-Furnished,19.15
+1567,LB Nagar,1878,3,3.0,18.0,1,Fully-Furnished,27.78
+1170,Secunderabad,3468,5,4.0,16.0,1,Fully-Furnished,55.57
+716,Secunderabad,1591,2,3.0,13.0,1,Fully-Furnished,30.09
+1235,Madhapur,1678,2,1.0,16.0,2,Unfurnished,30.79
+325,Kondapur,1062,1,1.0,25.0,1,Semi-Furnished,19.69
+1276,Gachibowli,1446,2,2.0,23.0,1,Fully-Furnished,31.64
+237,LB Nagar,1241,2,2.0,9.0,1,Unfurnished,16.86
+618,Kondapur,1402,2,2.0,4.0,0,Fully-Furnished,32.43
+1580,Uppal,1623,3,4.0,0.0,0,Fully-Furnished,32.89
+1014,Madhapur,3080,5,5.0,16.0,1,Unfurnished,64.87
+1508,Uppal,2460,4,4.0,15.0,2,Fully-Furnished,44.0
+88,Gachibowli,1512,2,1.0,6.0,1,Semi-Furnished,29.4
+1245,Secunderabad,744,1,1.0,25.0,1,Fully-Furnished,15.22
+1512,Gachibowli,1388,2,1.0,15.0,2,Unfurnished,24.29
+1234,Banjara Hills,1056,1,1.0,24.0,1,Semi-Furnished,26.0
+1272,Uppal,864,1,1.0,15.0,1,Semi-Furnished,13.14
+1403,Kukatpally,1041,2,3.0,16.0,0,Fully-Furnished,24.61
+1560,Banjara Hills,1624,3,3.0,7.0,0,Semi-Furnished,50.11
+251,Banjara Hills,1171,2,2.0,0.0,1,Semi-Furnished,39.76
+686,Kondapur,2017,3,3.0,12.0,1,Fully-Furnished,43.08
+1501,Uppal,2384,3,4.0,22.0,2,Semi-Furnished,38.06
+694,Jubilee Hills,3389,5,4.0,8.0,1,Unfurnished,88.89
+1588,Banjara Hills,2516,3,2.0,4.0,1,Unfurnished,68.41
+149,Miyapur,1633,4,4.0,2.0,1,Unfurnished,29.41
+707,Kondapur,2354,3,3.0,15.0,2,Semi-Furnished,43.46
+1412,Gachibowli,640,1,1.0,12.0,1,Unfurnished,13.69
+1443,Banjara Hills,1997,2,2.0,4.0,2,Unfurnished,57.93
+319,Banjara Hills,935,2,1.0,23.0,1,Semi-Furnished,25.12
+1095,Uppal,2017,4,4.0,25.0,1,Semi-Furnished,29.74
+1590,Banjara Hills,2378,3,3.0,24.0,0,Fully-Furnished,63.47
+934,Gachibowli,2831,5,4.0,3.0,1,Semi-Furnished,58.12
+1153,Kondapur,2201,3,4.0,12.0,2,Semi-Furnished,44.52
+1007,Kukatpally,2396,3,3.0,20.0,1,Fully-Furnished,37.91
+912,Banjara Hills,1339,2,1.0,8.0,1,Unfurnished,33.59
+1283,Madhapur,3489,5,5.0,23.0,1,Fully-Furnished,78.46
+1902,Kondapur,2968,4,3.0,17.0,1,Semi-Furnished,48.78
+1985,Kukatpally,2356,3,3.0,7.0,0,Fully-Furnished,41.7
+1217,Gachibowli,3428,5,5.0,18.0,1,Semi-Furnished,73.15
+911,Gachibowli,1000,1,2.0,15.0,1,Semi-Furnished,25.18
+362,Secunderabad,1280,1,1.0,25.0,0,Fully-Furnished,18.36
+981,Miyapur,1278,2,3.0,25.0,2,Unfurnished,23.49
+1039,Kukatpally,2436,2,3.0,5.0,1,Semi-Furnished,38.07
+672,Gachibowli,2874,4,5.0,1.0,2,Fully-Furnished,68.52
+35,LB Nagar,3323,5,5.0,15.0,2,Semi-Furnished,47.9
+960,Uppal,1320,1,1.0,16.0,2,Fully-Furnished,23.92
+1214,Kukatpally,625,1,1.0,4.0,2,Fully-Furnished,19.26
+1238,LB Nagar,2995,4,5.0,14.0,1,Fully-Furnished,43.64
+1913,Madhapur,2980,5,5.0,2.0,2,Fully-Furnished,82.55
+624,Jubilee Hills,2514,3,2.0,20.0,0,Fully-Furnished,58.92
+125,Gachibowli,2326,3,3.0,18.0,1,Fully-Furnished,51.32
+225,LB Nagar,2639,5,5.0,16.0,0,Semi-Furnished,37.75
+1284,Banjara Hills,882,1,1.0,3.0,1,Unfurnished,24.26
+1028,Uppal,3401,5,4.0,9.0,1,Unfurnished,43.9
+892,Miyapur,1448,2,2.0,23.0,1,Semi-Furnished,21.73
+1553,Uppal,2236,3,3.0,17.0,1,Fully-Furnished,34.11
+1124,Madhapur,1093,2,3.0,19.0,2,Unfurnished,26.32
+426,Secunderabad,1876,3,3.0,15.0,1,Unfurnished,28.74
+1313,LB Nagar,3064,5,5.0,14.0,1,Unfurnished,41.21
+1833,Jubilee Hills,3152,3,3.0,17.0,1,Unfurnished,84.58
+821,Secunderabad,1957,3,2.0,11.0,1,Unfurnished,26.59
+1876,Gachibowli,1199,2,2.0,5.0,1,Fully-Furnished,32.98
+909,Madhapur,641,1,1.0,22.0,1,Semi-Furnished,15.15
+1076,Banjara Hills,1203,2,2.0,22.0,0,Fully-Furnished,34.83
+41,Jubilee Hills,841,2,1.0,16.0,1,Semi-Furnished,23.58
+154,Banjara Hills,3446,4,4.0,22.0,0,Unfurnished,79.96
+860,Jubilee Hills,1430,2,2.0,24.0,1,Unfurnished,35.92
+1289,Uppal,858,1,1.0,13.0,2,Semi-Furnished,15.08
+580,Gachibowli,1949,2,2.0,8.0,1,Semi-Furnished,41.22
+1969,LB Nagar,3314,5,4.0,12.0,0,Fully-Furnished,43.5
+1168,Banjara Hills,1650,2,1.0,3.0,1,Semi-Furnished,48.88
+1001,Gachibowli,1947,3,4.0,22.0,0,Unfurnished,38.41
+1015,Banjara Hills,2073,3,3.0,6.0,1,Fully-Furnished,61.68
+1953,Jubilee Hills,705,1,1.0,23.0,1,Fully-Furnished,23.45
+1048,LB Nagar,2640,4,4.0,22.0,1,Fully-Furnished,38.64
+1125,Gachibowli,3032,4,5.0,18.0,1,Semi-Furnished,65.17
+372,Uppal,2820,3,4.0,10.0,1,Unfurnished,42.13
+1657,Uppal,3102,4,4.0,23.0,2,Fully-Furnished,39.75
+671,Madhapur,3037,4,4.0,24.0,0,Semi-Furnished,59.63
+1444,Kukatpally,1536,2,1.0,13.0,1,Semi-Furnished,22.18
+49,LB Nagar,1994,3,2.0,0.0,1,Unfurnished,24.59
+473,Secunderabad,2278,3,3.0,20.0,0,Semi-Furnished,30.78
+1260,Gachibowli,576,2,1.0,8.0,1,Unfurnished,12.21
+1601,Madhapur,1039,1,3.0,15.0,1,Semi-Furnished,21.04
+1812,Kukatpally,2717,4,5.0,0.0,1,Semi-Furnished,53.15
+714,Banjara Hills,1677,3,3.0,19.0,1,Unfurnished,41.65
+1205,Kukatpally,2091,3,4.0,14.0,1,Semi-Furnished,36.98
+115,Gachibowli,841,2,3.0,25.0,1,Semi-Furnished,23.57
+1684,LB Nagar,2125,3,3.0,20.0,0,Fully-Furnished,28.19
+1575,LB Nagar,1978,3,3.0,14.0,1,Semi-Furnished,28.4
+73,Kondapur,3174,5,5.0,12.0,0,Unfurnished,60.85
+112,Madhapur,1942,3,4.0,10.0,0,Semi-Furnished,51.14
+170,Kondapur,2181,3,4.0,19.0,0,Semi-Furnished,40.9
+1816,Uppal,3003,4,3.0,10.0,1,Semi-Furnished,37.14
+1569,Kukatpally,2181,3,2.0,3.0,0,Semi-Furnished,32.32
+151,Madhapur,1321,2,1.0,8.0,2,Fully-Furnished,34.4
+408,Secunderabad,734,1,1.0,19.0,0,Semi-Furnished,12.07
+1817,Kukatpally,1443,3,3.0,15.0,1,Fully-Furnished,29.73
+1792,Kukatpally,2909,4,4.0,12.0,0,Semi-Furnished,47.34
+1545,Miyapur,734,1,1.0,22.0,1,Semi-Furnished,13.9
+771,Secunderabad,1347,2,2.0,25.0,1,Semi-Furnished,24.21
+1232,Gachibowli,942,2,3.0,10.0,1,Semi-Furnished,24.64
+1524,Madhapur,3159,5,5.0,16.0,0,Semi-Furnished,74.31
+614,Miyapur,1117,1,1.0,11.0,2,Unfurnished,17.03
+423,Kukatpally,2825,4,3.0,8.0,1,Unfurnished,42.38
+189,Uppal,1776,2,3.0,13.0,1,Semi-Furnished,27.92
+616,Banjara Hills,1865,2,2.0,9.0,0,Unfurnished,48.13
+1907,Jubilee Hills,2482,4,5.0,23.0,1,Fully-Furnished,75.97
+31,Jubilee Hills,3064,4,4.0,14.0,2,Semi-Furnished,85.54
+1271,Madhapur,3221,5,5.0,13.0,2,Fully-Furnished,73.86
+819,Gachibowli,764,2,1.0,21.0,1,Semi-Furnished,16.58
+269,Gachibowli,1243,2,1.0,0.0,2,Fully-Furnished,32.96
+598,Jubilee Hills,3339,5,5.0,21.0,1,Semi-Furnished,89.04
+841,LB Nagar,1940,2,1.0,12.0,1,Unfurnished,19.15
+753,Secunderabad,507,1,1.0,7.0,1,Fully-Furnished,15.7
+957,Miyapur,2636,4,3.0,24.0,1,Unfurnished,33.9
+1686,Kukatpally,892,1,1.0,0.0,0,Fully-Furnished,18.75
+135,Kondapur,3478,5,3.0,0.0,2,Unfurnished,75.68
+390,LB Nagar,538,1,1.0,18.0,1,Unfurnished,8.08
+233,Kondapur,885,1,2.0,24.0,2,Fully-Furnished,24.72
+1998,Kukatpally,666,1,1.0,16.0,1,Unfurnished,11.18
+1372,Gachibowli,3284,5,5.0,16.0,2,Fully-Furnished,73.65
+1200,Kukatpally,1178,2,1.0,7.0,1,Fully-Furnished,21.94
+458,Madhapur,2659,3,2.0,12.0,1,Fully-Furnished,56.32
+797,Kukatpally,1652,3,3.0,16.0,2,Fully-Furnished,34.79
+1038,Jubilee Hills,2761,3,4.0,14.0,1,Semi-Furnished,77.33
+1932,Banjara Hills,2457,3,3.0,3.0,1,Semi-Furnished,75.55
+1037,Miyapur,1610,1,1.0,17.0,2,Semi-Furnished,22.8
+1473,Kukatpally,1979,3,4.0,8.0,1,Semi-Furnished,35.96
+1986,Gachibowli,1714,3,2.0,2.0,1,Unfurnished,34.29
+459,Kondapur,1536,2,2.0,12.0,2,Semi-Furnished,30.87
+1134,Uppal,2293,2,1.0,14.0,0,Fully-Furnished,25.61
+163,Jubilee Hills,1036,1,1.0,1.0,1,Fully-Furnished,35.52
+1583,Uppal,1148,1,2.0,25.0,1,Unfurnished,15.94
+1458,Kondapur,2088,3,3.0,25.0,1,Semi-Furnished,36.98
+1762,Uppal,3107,4,5.0,1.0,1,Unfurnished,45.37
+709,Kondapur,1459,2,2.0,1.0,1,Semi-Furnished,32.54
+1649,Uppal,1164,1,2.0,15.0,2,Unfurnished,20.67
+328,Banjara Hills,1272,3,2.0,9.0,1,Unfurnished,37.36
+899,Uppal,2757,5,5.0,19.0,2,Fully-Furnished,43.25
+378,Kondapur,1345,2,2.0,9.0,1,Semi-Furnished,27.45
+555,Uppal,2510,3,4.0,15.0,1,Semi-Furnished,34.72
+510,Jubilee Hills,661,1,1.0,3.0,1,Unfurnished,19.98
+1396,Secunderabad,1195,3,3.0,1.0,1,Semi-Furnished,28.84
+1626,Secunderabad,2564,4,3.0,18.0,1,Fully-Furnished,38.88
+245,Uppal,2509,3,2.0,22.0,1,Unfurnished,24.34
+322,LB Nagar,1914,3,4.0,19.0,2,Fully-Furnished,36.99
+817,Banjara Hills,726,1,1.0,16.0,2,Semi-Furnished,23.53
+1749,LB Nagar,992,2,2.0,21.0,1,Fully-Furnished,19.77
+108,Banjara Hills,2225,3,3.0,12.0,2,Fully-Furnished,65.51
+428,Kukatpally,1014,1,1.0,6.0,2,Unfurnished,17.81
+1961,Gachibowli,2491,3,3.0,15.0,1,Fully-Furnished,50.66
+905,Kukatpally,1877,3,3.0,6.0,2,Unfurnished,32.32
+1148,Kondapur,1270,1,2.0,23.0,1,Semi-Furnished,25.44
+1682,Uppal,1741,3,3.0,17.0,2,Fully-Furnished,30.82
+7,Madhapur,2103,4,3.0,3.0,1,Semi-Furnished,48.86
+1774,Kondapur,1385,1,1.0,19.0,2,Semi-Furnished,25.25
+1145,Madhapur,1062,2,3.0,18.0,1,Unfurnished,23.47
+1757,Kukatpally,2105,3,4.0,4.0,0,Fully-Furnished,37.9
+1442,Uppal,949,2,3.0,18.0,1,Fully-Furnished,23.95
+1346,Kondapur,2110,3,4.0,16.0,1,Fully-Furnished,46.11
+1773,Miyapur,1369,2,3.0,3.0,0,Unfurnished,21.4
+668,Kukatpally,2708,4,4.0,22.0,1,Fully-Furnished,47.04
+783,Kondapur,1112,2,2.0,25.0,1,Fully-Furnished,24.79
+872,Gachibowli,2458,4,4.0,21.0,0,Unfurnished,39.96
+1383,Kondapur,1637,1,1.0,4.0,2,Fully-Furnished,34.7
+236,Kukatpally,2793,4,4.0,9.0,2,Semi-Furnished,48.8
+1390,Uppal,2867,4,4.0,22.0,2,Unfurnished,37.07
+1108,LB Nagar,2650,4,4.0,12.0,0,Semi-Furnished,35.73
+1389,Miyapur,2333,3,3.0,10.0,2,Unfurnished,36.91
+344,Miyapur,2327,4,3.0,21.0,1,Fully-Furnished,40.29
+1307,Kukatpally,3309,5,5.0,5.0,1,Semi-Furnished,57.86
+1618,Gachibowli,2315,3,3.0,10.0,1,Fully-Furnished,51.19
+851,Kondapur,1598,2,2.0,7.0,2,Semi-Furnished,36.76
+1419,Madhapur,2741,4,3.0,15.0,2,Semi-Furnished,59.73
+1330,LB Nagar,1707,2,3.0,12.0,0,Semi-Furnished,24.5
+1819,Kondapur,3337,5,5.0,0.0,1,Unfurnished,69.95
+1654,Jubilee Hills,2559,3,4.0,12.0,2,Semi-Furnished,73.25
+1554,Kondapur,1032,2,1.0,10.0,1,Unfurnished,18.67
+1609,Gachibowli,2048,3,3.0,4.0,2,Unfurnished,42.09
+594,Madhapur,3290,4,3.0,12.0,2,Fully-Furnished,77.43
+358,Secunderabad,2382,4,3.0,23.0,2,Unfurnished,32.22
+1820,Gachibowli,3160,5,5.0,15.0,1,Semi-Furnished,61.65
+530,Secunderabad,1239,2,3.0,20.0,1,Semi-Furnished,23.79
+610,Banjara Hills,3272,5,4.0,17.0,0,Unfurnished,84.56
+537,Jubilee Hills,1330,2,3.0,8.0,1,Semi-Furnished,45.37
+1653,Madhapur,3303,5,4.0,0.0,1,Unfurnished,79.74
+746,Kondapur,1701,3,3.0,14.0,2,Fully-Furnished,41.53
+1344,Kondapur,1194,2,2.0,15.0,1,Semi-Furnished,25.46
+680,Banjara Hills,2204,3,3.0,20.0,1,Semi-Furnished,60.99
+1381,Banjara Hills,2834,5,5.0,16.0,0,Semi-Furnished,80.3
+2,Miyapur,3184,5,3.0,19.0,0,Fully-Furnished,51.53
+336,Madhapur,2915,4,3.0,1.0,1,Semi-Furnished,62.88
+1523,Uppal,1975,2,2.0,10.0,2,Semi-Furnished,28.24
+1231,Miyapur,1899,2,2.0,3.0,1,Unfurnished,26.9
+617,Secunderabad,1743,3,2.0,13.0,1,Semi-Furnished,25.81
+857,Banjara Hills,3167,4,3.0,22.0,1,Semi-Furnished,73.24
+1651,Uppal,2602,3,3.0,15.0,1,Semi-Furnished,34.5
+1835,Gachibowli,1479,3,2.0,0.0,1,Unfurnished,29.77
+1663,LB Nagar,956,1,3.0,19.0,1,Unfurnished,11.24
+1157,Miyapur,2805,4,4.0,18.0,2,Fully-Furnished,45.89
+188,Secunderabad,1189,2,1.0,15.0,1,Unfurnished,16.39
+932,Madhapur,1949,3,3.0,12.0,2,Semi-Furnished,52.14
+871,Miyapur,1570,3,3.0,5.0,2,Semi-Furnished,33.57
+1337,Kondapur,2694,4,3.0,25.0,1,Semi-Furnished,42.76
+589,Uppal,1203,2,2.0,2.0,1,Fully-Furnished,23.09
+249,Miyapur,2520,4,4.0,4.0,1,Semi-Furnished,44.62
+917,Madhapur,2030,3,3.0,5.0,1,Unfurnished,40.83
+1377,Kukatpally,3384,4,4.0,10.0,1,Unfurnished,48.9
+601,Kukatpally,3356,5,4.0,1.0,1,Unfurnished,48.55
+751,Kukatpally,3051,4,4.0,3.0,1,Semi-Furnished,48.97
+1243,Banjara Hills,2672,3,3.0,10.0,1,Semi-Furnished,76.53
+615,Secunderabad,2961,5,5.0,7.0,1,Fully-Furnished,54.8
+719,Kukatpally,2761,4,4.0,21.0,1,Semi-Furnished,46.79
+992,Uppal,2428,4,3.0,14.0,0,Semi-Furnished,30.0
+1219,Kukatpally,1075,2,1.0,25.0,1,Semi-Furnished,17.38
+187,Kukatpally,2929,4,4.0,12.0,1,Unfurnished,44.82
+1552,Secunderabad,2129,3,3.0,19.0,1,Unfurnished,28.42
+1239,Banjara Hills,1757,2,3.0,24.0,0,Semi-Furnished,45.98
+1489,Gachibowli,3323,5,5.0,2.0,2,Fully-Furnished,84.17
+1956,Secunderabad,3051,5,5.0,16.0,1,Unfurnished,42.22
+1903,Kukatpally,2420,3,3.0,6.0,0,Fully-Furnished,42.87
+1143,Kukatpally,1409,2,1.0,17.0,1,Unfurnished,18.33
+253,Uppal,964,1,1.0,17.0,1,Unfurnished,10.99
+1988,Kukatpally,3110,4,4.0,6.0,2,Semi-Furnished,55.5
+1814,LB Nagar,1371,2,3.0,15.0,1,Semi-Furnished,20.72
+1829,Banjara Hills,3093,4,3.0,24.0,2,Unfurnished,80.87
+317,Madhapur,865,1,1.0,19.0,1,Fully-Furnished,22.25
+924,Jubilee Hills,653,2,2.0,7.0,2,Unfurnished,21.47
+806,Gachibowli,2029,2,2.0,7.0,0,Semi-Furnished,36.07
+124,LB Nagar,1952,3,3.0,1.0,0,Unfurnished,23.68
+1942,Uppal,919,1,2.0,12.0,0,Fully-Furnished,19.79
+886,Kukatpally,2338,3,2.0,10.0,2,Fully-Furnished,40.34
+893,Gachibowli,2519,4,5.0,12.0,2,Fully-Furnished,59.27
+1010,Gachibowli,1319,2,3.0,3.0,1,Semi-Furnished,33.48
+518,Kukatpally,905,2,1.0,18.0,0,Fully-Furnished,16.26
+636,Banjara Hills,1374,2,2.0,13.0,0,Unfurnished,33.63
+93,Kukatpally,3056,4,5.0,6.0,0,Semi-Furnished,49.93
+244,Banjara Hills,2760,5,4.0,22.0,1,Unfurnished,71.19
+1504,Miyapur,2756,4,3.0,17.0,2,Unfurnished,41.88
+449,Gachibowli,2355,4,5.0,24.0,2,Semi-Furnished,54.08
+824,Uppal,1918,3,3.0,22.0,2,Semi-Furnished,29.55
+1452,Banjara Hills,1738,3,3.0,24.0,1,Fully-Furnished,45.96
+1252,Kondapur,623,1,1.0,13.0,1,Semi-Furnished,14.95
+609,Uppal,1047,1,1.0,15.0,1,Semi-Furnished,16.18
+1919,Banjara Hills,1362,2,2.0,21.0,1,Unfurnished,33.54
+856,Gachibowli,3384,4,4.0,24.0,1,Fully-Furnished,65.6
+478,Jubilee Hills,2679,3,3.0,24.0,0,Semi-Furnished,64.17
+263,Uppal,3057,5,5.0,15.0,0,Semi-Furnished,42.09
+58,Uppal,810,2,3.0,6.0,0,Fully-Furnished,21.42
+430,Kondapur,2153,3,3.0,4.0,0,Unfurnished,42.54
+250,Gachibowli,672,1,1.0,5.0,1,Fully-Furnished,19.47
+1376,Secunderabad,2990,4,5.0,2.0,1,Unfurnished,50.77
+1411,Secunderabad,2072,2,1.0,13.0,1,Fully-Furnished,30.64
+1519,Madhapur,636,1,1.0,18.0,1,Unfurnished,14.69
+1821,LB Nagar,3436,5,5.0,18.0,0,Semi-Furnished,40.34
+1661,Secunderabad,3170,5,5.0,2.0,2,Fully-Furnished,60.66
+830,Kukatpally,3272,4,4.0,14.0,1,Semi-Furnished,51.27
+486,Madhapur,2328,3,3.0,23.0,1,Unfurnished,41.82
+403,LB Nagar,2259,3,2.0,1.0,1,Unfurnished,25.82
+1096,Madhapur,1406,2,2.0,7.0,1,Semi-Furnished,32.45
+354,Jubilee Hills,869,1,1.0,23.0,0,Unfurnished,21.75
+1866,Uppal,1208,1,1.0,15.0,1,Semi-Furnished,17.29
+769,Banjara Hills,2933,4,3.0,12.0,1,Semi-Furnished,81.36
+1586,Kondapur,1451,1,1.0,2.0,2,Unfurnished,27.33
+1741,Kondapur,2849,4,3.0,12.0,2,Semi-Furnished,52.63
+1086,Madhapur,1052,1,2.0,15.0,2,Unfurnished,26.28
+52,Gachibowli,1161,2,3.0,20.0,1,Unfurnished,26.41
+812,Jubilee Hills,2900,4,4.0,13.0,1,Unfurnished,83.49
+1012,Jubilee Hills,905,1,2.0,16.0,2,Unfurnished,29.94
+571,Kondapur,1472,2,2.0,20.0,2,Unfurnished,27.63
+1189,LB Nagar,3394,5,5.0,21.0,1,Semi-Furnished,47.11
+756,Uppal,1820,2,3.0,11.0,0,Unfurnished,17.17
+895,Jubilee Hills,1050,1,3.0,14.0,1,Semi-Furnished,28.17
+974,Uppal,3024,5,5.0,17.0,0,Fully-Furnished,45.56
+1021,Kukatpally,1978,2,1.0,18.0,2,Unfurnished,25.21
+1161,Jubilee Hills,2782,4,4.0,23.0,0,Unfurnished,78.04
+1421,Uppal,1301,3,3.0,3.0,2,Semi-Furnished,27.33
+43,Secunderabad,3274,5,5.0,11.0,0,Semi-Furnished,54.53
+1982,Kondapur,3464,5,5.0,12.0,1,Semi-Furnished,63.35
+1867,LB Nagar,1150,1,1.0,14.0,2,Semi-Furnished,17.05
+802,LB Nagar,768,1,1.0,15.0,2,Unfurnished,12.93
+1801,Kondapur,686,1,1.0,23.0,1,Semi-Furnished,15.39
+1483,Miyapur,1545,2,3.0,9.0,2,Semi-Furnished,29.61
+1551,Gachibowli,1292,1,1.0,20.0,1,Unfurnished,21.67
+76,Secunderabad,2503,3,4.0,9.0,1,Fully-Furnished,47.95
+228,LB Nagar,2264,3,3.0,20.0,1,Unfurnished,27.88
+1029,LB Nagar,2015,2,2.0,8.0,1,Unfurnished,20.84
+1638,Jubilee Hills,2651,4,4.0,5.0,2,Semi-Furnished,85.4
+949,Uppal,3223,4,3.0,19.0,1,Fully-Furnished,39.36
+1380,LB Nagar,2224,2,2.0,3.0,0,Semi-Furnished,29.52
+153,Uppal,2928,4,5.0,16.0,1,Fully-Furnished,50.11
+353,Madhapur,3314,5,5.0,10.0,1,Unfurnished,75.77
+894,Kukatpally,959,3,3.0,2.0,2,Semi-Furnished,24.37
+1532,Madhapur,2495,3,4.0,4.0,0,Unfurnished,50.98
+1727,Kukatpally,2196,3,2.0,25.0,0,Semi-Furnished,28.85
+1204,LB Nagar,2968,4,4.0,23.0,2,Fully-Furnished,42.11
+120,Jubilee Hills,1060,2,2.0,5.0,1,Fully-Furnished,40.75
+1334,Miyapur,1517,2,1.0,0.0,1,Fully-Furnished,26.5
+1874,Madhapur,2950,4,3.0,15.0,1,Fully-Furnished,60.11
+938,Gachibowli,2159,3,2.0,3.0,1,Fully-Furnished,45.33
+1605,Jubilee Hills,1588,3,4.0,8.0,1,Semi-Furnished,53.66
+1218,Secunderabad,2329,3,3.0,19.0,1,Semi-Furnished,36.62
+543,Banjara Hills,1826,2,3.0,6.0,1,Semi-Furnished,55.55
+1690,Kukatpally,1479,3,4.0,14.0,2,Unfurnished,28.0
+202,Gachibowli,2810,5,5.0,9.0,0,Semi-Furnished,55.14
+1418,Banjara Hills,1046,2,3.0,9.0,0,Fully-Furnished,39.08
+65,Kondapur,3459,4,4.0,23.0,1,Fully-Furnished,59.77
+1631,LB Nagar,1239,2,2.0,16.0,2,Fully-Furnished,25.46
+179,Kondapur,3210,4,5.0,6.0,1,Unfurnished,59.63
+741,Miyapur,1273,2,2.0,4.0,0,Fully-Furnished,24.03
+1474,Secunderabad,2089,4,5.0,12.0,2,Fully-Furnished,43.47
+1123,Madhapur,919,1,1.0,0.0,1,Fully-Furnished,25.03
+867,Secunderabad,982,2,2.0,14.0,1,Semi-Furnished,19.92
+1460,Gachibowli,3460,5,5.0,22.0,1,Fully-Furnished,69.76
+593,Madhapur,1137,1,1.0,11.0,2,Semi-Furnished,29.43
+864,Madhapur,2819,3,2.0,15.0,1,Semi-Furnished,54.88
+339,Banjara Hills,1420,2,3.0,22.0,1,Fully-Furnished,42.31
+858,Uppal,2174,3,4.0,4.0,2,Fully-Furnished,38.78
+1787,Gachibowli,3395,5,4.0,0.0,2,Unfurnished,76.55
+361,Miyapur,2921,5,4.0,21.0,0,Fully-Furnished,41.81
+1414,Madhapur,1147,2,1.0,2.0,1,Fully-Furnished,27.5
+990,Secunderabad,2486,3,3.0,12.0,1,Unfurnished,34.71
+862,Banjara Hills,1223,2,2.0,15.0,2,Semi-Furnished,38.73
+588,Kukatpally,3464,5,5.0,24.0,1,Semi-Furnished,54.8
+1805,LB Nagar,585,1,2.0,21.0,0,Fully-Furnished,15.51
+1800,Banjara Hills,3140,4,3.0,10.0,0,Fully-Furnished,80.85
+1118,LB Nagar,3397,4,4.0,14.0,1,Unfurnished,37.87
+1671,Uppal,1143,1,1.0,1.0,1,Semi-Furnished,17.91
+1116,Madhapur,2210,4,3.0,24.0,1,Fully-Furnished,49.77
+98,LB Nagar,2101,3,3.0,6.0,1,Unfurnished,26.53
+284,Madhapur,1071,1,1.0,0.0,0,Fully-Furnished,24.13
+678,Gachibowli,2575,4,5.0,8.0,1,Fully-Furnished,61.13
+904,Kondapur,1966,3,3.0,8.0,1,Semi-Furnished,43.75
+1871,Secunderabad,2646,4,5.0,13.0,1,Fully-Furnished,52.39
+1687,Secunderabad,1130,2,3.0,4.0,1,Semi-Furnished,26.47
+935,LB Nagar,1479,1,1.0,18.0,2,Fully-Furnished,23.86
+1459,Banjara Hills,2868,4,5.0,21.0,1,Semi-Furnished,78.36
+443,Gachibowli,1784,3,3.0,0.0,1,Unfurnished,41.79
+1872,LB Nagar,3135,5,5.0,10.0,2,Semi-Furnished,43.71
+164,Miyapur,2103,3,3.0,22.0,2,Unfurnished,30.26
+559,Jubilee Hills,2625,4,4.0,16.0,1,Fully-Furnished,79.53
+747,Secunderabad,1950,2,3.0,13.0,1,Semi-Furnished,31.44
+425,Secunderabad,2224,3,2.0,18.0,1,Semi-Furnished,33.69
+1993,Jubilee Hills,603,1,1.0,2.0,0,Unfurnished,17.18
+1531,Gachibowli,3171,4,5.0,21.0,0,Semi-Furnished,62.63
+1055,Jubilee Hills,1955,3,4.0,8.0,0,Semi-Furnished,64.41
+1164,Madhapur,1880,3,3.0,13.0,0,Semi-Furnished,41.48
+1302,Secunderabad,3056,4,4.0,10.0,1,Semi-Furnished,48.35
+966,Miyapur,567,1,1.0,4.0,1,Semi-Furnished,13.03
+133,Madhapur,3406,4,5.0,8.0,1,Fully-Furnished,85.6
+832,Gachibowli,1481,2,2.0,9.0,1,Semi-Furnished,31.24
+585,Kukatpally,2456,3,4.0,3.0,1,Unfurnished,39.14
+954,Secunderabad,2867,4,5.0,10.0,1,Semi-Furnished,46.52
+144,LB Nagar,1812,2,2.0,12.0,1,Unfurnished,19.53
+1129,Banjara Hills,1607,2,3.0,1.0,1,Semi-Furnished,49.37
+1416,Kondapur,700,1,1.0,13.0,0,Semi-Furnished,13.69
+1826,Kondapur,3287,5,4.0,8.0,1,Semi-Furnished,64.8
+1664,Miyapur,2707,4,3.0,1.0,2,Unfurnished,43.37
+1475,Jubilee Hills,2087,4,4.0,10.0,1,Fully-Furnished,72.25
+1352,Jubilee Hills,1203,2,2.0,23.0,0,Semi-Furnished,33.57
+381,Gachibowli,2961,4,3.0,19.0,1,Fully-Furnished,58.08
+1420,Madhapur,3250,5,5.0,6.0,1,Unfurnished,73.89
+315,Uppal,731,2,3.0,17.0,2,Semi-Furnished,21.62
+1785,Kukatpally,2334,3,3.0,12.0,1,Semi-Furnished,38.02
+360,Gachibowli,1269,2,1.0,23.0,2,Fully-Furnished,31.65
+842,Jubilee Hills,1480,2,2.0,19.0,2,Semi-Furnished,42.55
+1977,LB Nagar,2083,3,3.0,3.0,2,Semi-Furnished,30.85
+1103,Secunderabad,2536,2,3.0,24.0,0,Semi-Furnished,32.72
+1142,LB Nagar,1789,2,2.0,25.0,1,Unfurnished,18.42
+613,Secunderabad,1375,2,1.0,20.0,1,Fully-Furnished,24.73
+1089,Madhapur,3366,5,5.0,24.0,1,Semi-Furnished,65.83
+1158,Kukatpally,1604,2,3.0,20.0,2,Semi-Furnished,31.48
+1968,Miyapur,2709,5,5.0,12.0,2,Fully-Furnished,51.61
+730,Uppal,2605,4,4.0,2.0,2,Semi-Furnished,41.43
+688,Uppal,3157,4,3.0,21.0,0,Unfurnished,36.66
+8,LB Nagar,1741,1,3.0,22.0,1,Unfurnished,17.72
+1731,Banjara Hills,2562,4,4.0,15.0,1,Semi-Furnished,74.67
+826,Secunderabad,3490,4,3.0,0.0,1,Semi-Furnished,51.69
+1662,Madhapur,806,1,2.0,17.0,0,Semi-Furnished,20.41
+952,Madhapur,785,1,1.0,20.0,2,Semi-Furnished,20.89
+880,Madhapur,1139,1,1.0,9.0,1,Fully-Furnished,29.37
+1333,Gachibowli,1057,2,2.0,14.0,2,Unfurnished,24.84
+79,Gachibowli,2868,4,3.0,23.0,1,Fully-Furnished,57.61
+1660,Madhapur,1472,2,1.0,12.0,1,Unfurnished,26.56
+1041,Jubilee Hills,1279,2,2.0,16.0,1,Semi-Furnished,39.5
+1862,LB Nagar,2272,3,3.0,17.0,0,Unfurnished,24.67
+117,Secunderabad,743,1,1.0,24.0,0,Fully-Furnished,15.6
+324,Secunderabad,3087,3,3.0,10.0,1,Fully-Furnished,46.37
+1236,Uppal,2537,4,4.0,12.0,0,Fully-Furnished,39.76
+440,Banjara Hills,861,1,1.0,25.0,2,Semi-Furnished,26.92
+549,Kukatpally,2948,5,3.0,0.0,2,Semi-Furnished,51.81
+174,Gachibowli,3219,4,3.0,4.0,0,Fully-Furnished,63.66
+1694,Kondapur,732,1,1.0,4.0,1,Semi-Furnished,15.84
+1497,Secunderabad,2239,2,1.0,21.0,2,Semi-Furnished,32.52
+1592,Kondapur,2272,3,2.0,3.0,1,Unfurnished,37.65
+1117,Banjara Hills,2375,4,4.0,2.0,2,Unfurnished,74.78
+1734,Miyapur,2824,5,4.0,13.0,1,Fully-Furnished,46.65
+985,Miyapur,2290,3,3.0,14.0,1,Unfurnished,30.47
+1456,Banjara Hills,1550,2,3.0,16.0,2,Unfurnished,43.78
+415,Miyapur,962,2,3.0,8.0,0,Semi-Furnished,20.44
+1225,Kukatpally,1554,2,2.0,15.0,1,Fully-Furnished,29.02
+1428,Jubilee Hills,687,1,2.0,3.0,1,Fully-Furnished,27.79
+807,Miyapur,2258,3,2.0,19.0,2,Unfurnished,28.74
+165,Gachibowli,2479,4,4.0,21.0,1,Semi-Furnished,49.69
+1154,Madhapur,886,1,1.0,10.0,1,Fully-Furnished,24.25
+1630,Secunderabad,2956,5,5.0,13.0,1,Semi-Furnished,51.16
+973,Uppal,1194,1,2.0,21.0,1,Unfurnished,18.27
+1763,Miyapur,3243,4,5.0,18.0,1,Semi-Furnished,52.96
+1722,LB Nagar,2343,3,3.0,0.0,0,Unfurnished,30.4
+387,Kukatpally,2669,4,3.0,9.0,1,Unfurnished,41.59
+1137,Kondapur,701,1,2.0,12.0,1,Semi-Furnished,19.03
+123,Madhapur,1093,1,1.0,6.0,0,Fully-Furnished,26.42
+96,Secunderabad,2661,4,3.0,1.0,2,Semi-Furnished,46.13
+1422,Banjara Hills,1441,2,2.0,19.0,2,Semi-Furnished,37.79
+46,Kukatpally,3161,5,4.0,6.0,0,Semi-Furnished,46.49
+1767,Kukatpally,1662,2,1.0,8.0,1,Unfurnished,22.35
+1596,Gachibowli,2327,3,3.0,16.0,2,Fully-Furnished,53.37
+996,Secunderabad,981,2,2.0,7.0,1,Semi-Furnished,18.61
+383,Madhapur,2248,4,4.0,9.0,1,Fully-Furnished,62.37
+1254,Secunderabad,2231,3,3.0,17.0,2,Semi-Furnished,36.62
+764,Jubilee Hills,1627,2,2.0,12.0,1,Fully-Furnished,54.94
+1782,Madhapur,2672,4,4.0,7.0,1,Unfurnished,58.9
+1393,Secunderabad,2499,3,2.0,23.0,1,Semi-Furnished,36.03
+191,Miyapur,1579,2,2.0,23.0,0,Semi-Furnished,21.27
+1788,Gachibowli,2997,4,3.0,12.0,2,Semi-Furnished,59.5
+728,Kukatpally,1281,2,2.0,7.0,2,Semi-Furnished,26.83
+1268,Madhapur,567,1,1.0,14.0,1,Semi-Furnished,16.79
+1113,Gachibowli,1866,2,3.0,20.0,1,Fully-Furnished,39.38
+39,Kondapur,2928,4,5.0,12.0,1,Unfurnished,47.93
+1441,Banjara Hills,2869,4,4.0,15.0,2,Fully-Furnished,89.75
+256,Madhapur,2942,4,4.0,23.0,1,Unfurnished,60.5
+92,Gachibowli,3285,4,3.0,12.0,1,Semi-Furnished,65.0
+726,Miyapur,3175,5,4.0,18.0,0,Fully-Furnished,49.95
+698,Kukatpally,1136,2,2.0,2.0,2,Unfurnished,19.55
+1673,Madhapur,694,1,1.0,23.0,2,Semi-Furnished,20.73
+1162,Kondapur,2356,4,4.0,25.0,2,Semi-Furnished,49.82
+1019,Gachibowli,631,1,1.0,12.0,1,Semi-Furnished,16.25
+1614,Kondapur,3112,4,4.0,25.0,2,Semi-Furnished,50.93
+1799,LB Nagar,1562,2,2.0,11.0,0,Semi-Furnished,19.65
+1581,Jubilee Hills,2578,3,3.0,2.0,1,Unfurnished,75.14
+371,Miyapur,1282,1,2.0,2.0,1,Semi-Furnished,22.89
+1904,LB Nagar,3254,4,4.0,3.0,2,Semi-Furnished,47.0
+1975,Secunderabad,3052,4,4.0,17.0,0,Fully-Furnished,47.06
+586,Uppal,2503,3,4.0,21.0,1,Fully-Furnished,37.65
+1723,Secunderabad,2908,5,5.0,9.0,1,Semi-Furnished,51.34
+553,Banjara Hills,2275,3,2.0,16.0,1,Unfurnished,56.34
+592,Miyapur,2125,3,3.0,22.0,1,Semi-Furnished,30.03
+627,Miyapur,1081,2,2.0,19.0,1,Semi-Furnished,19.24
+655,Gachibowli,2861,4,4.0,24.0,1,Semi-Furnished,53.03
+986,Miyapur,1160,1,1.0,25.0,0,Unfurnished,12.51
+793,Madhapur,3196,5,5.0,15.0,1,Semi-Furnished,67.29
+424,LB Nagar,2968,4,5.0,5.0,2,Semi-Furnished,47.93
+348,LB Nagar,2716,3,4.0,0.0,1,Fully-Furnished,43.14
+903,Kukatpally,2954,4,4.0,25.0,0,Semi-Furnished,38.9
+422,Gachibowli,960,1,1.0,6.0,1,Unfurnished,18.53
+522,Kukatpally,1041,2,2.0,4.0,0,Fully-Furnished,22.26
+1043,Miyapur,1229,1,3.0,7.0,2,Fully-Furnished,26.76
+1610,Secunderabad,2596,4,5.0,10.0,2,Semi-Furnished,47.93
+1679,Secunderabad,1602,2,2.0,21.0,2,Fully-Furnished,30.05
+1603,Jubilee Hills,1321,2,3.0,22.0,1,Semi-Furnished,40.14
+991,Banjara Hills,2544,3,2.0,23.0,0,Unfurnished,56.22
+297,Kukatpally,578,2,2.0,14.0,2,Semi-Furnished,18.91
+1859,Kondapur,1716,2,1.0,20.0,0,Fully-Furnished,29.4
+116,Kukatpally,1839,3,2.0,6.0,0,Semi-Furnished,28.36
+1132,Miyapur,3202,5,5.0,18.0,0,Semi-Furnished,45.07
+1971,Jubilee Hills,1020,2,2.0,14.0,2,Unfurnished,31.9
+1748,Miyapur,3067,5,3.0,14.0,2,Semi-Furnished,49.8
+469,Madhapur,2497,3,2.0,6.0,1,Unfurnished,50.33
+689,Madhapur,3389,4,4.0,7.0,1,Semi-Furnished,70.43
+280,LB Nagar,516,1,1.0,6.0,1,Semi-Furnished,11.76
+451,Kukatpally,3020,5,5.0,23.0,1,Semi-Furnished,46.95
+847,Kukatpally,2854,4,4.0,12.0,1,Semi-Furnished,46.05
+540,Gachibowli,3310,4,4.0,15.0,1,Unfurnished,61.81
+1495,Madhapur,1598,3,3.0,18.0,1,Semi-Furnished,36.55
+1853,Kondapur,1789,2,2.0,4.0,1,Unfurnished,32.14
+1141,Gachibowli,2496,4,3.0,5.0,1,Semi-Furnished,52.76
+515,Madhapur,3462,5,5.0,21.0,1,Semi-Furnished,73.54
+483,Kukatpally,3083,4,5.0,8.0,2,Unfurnished,53.58
+575,Jubilee Hills,2528,4,4.0,5.0,0,Fully-Furnished,81.61
+1207,Uppal,3106,4,4.0,6.0,0,Unfurnished,40.15
+1837,Madhapur,1128,2,2.0,5.0,1,Fully-Furnished,34.01
+1229,Kukatpally,3384,5,5.0,5.0,2,Semi-Furnished,54.58
+388,Secunderabad,2067,1,1.0,9.0,1,Unfurnished,25.2
+748,Madhapur,3256,4,3.0,10.0,1,Unfurnished,71.86
+203,Jubilee Hills,899,1,1.0,17.0,1,Unfurnished,22.47
+503,Gachibowli,835,2,1.0,13.0,1,Semi-Furnished,19.3
+529,Secunderabad,931,1,2.0,6.0,1,Semi-Furnished,16.88
+1574,Jubilee Hills,1391,1,1.0,9.0,1,Semi-Furnished,42.33
+1321,Gachibowli,2389,4,4.0,3.0,1,Semi-Furnished,50.66
+110,Madhapur,810,1,1.0,1.0,1,Semi-Furnished,21.76
+784,Secunderabad,3475,5,5.0,20.0,1,Fully-Furnished,56.7
+928,Banjara Hills,2467,4,4.0,10.0,2,Fully-Furnished,72.35
+1880,Uppal,2701,3,4.0,15.0,1,Unfurnished,32.01
+402,Gachibowli,2783,4,4.0,21.0,2,Unfurnished,45.41
+159,Secunderabad,2176,3,3.0,20.0,1,Semi-Furnished,31.44
+775,Gachibowli,782,1,1.0,6.0,2,Fully-Furnished,24.49
+446,Kondapur,2423,3,4.0,19.0,1,Unfurnished,37.54
+1500,Kukatpally,1764,3,3.0,17.0,2,Unfurnished,28.85
+572,Secunderabad,2142,2,2.0,12.0,0,Semi-Furnished,30.05
+1681,Madhapur,3018,5,5.0,22.0,1,Fully-Furnished,62.18
+1195,Miyapur,2541,4,3.0,3.0,1,Semi-Furnished,40.12
+215,Jubilee Hills,919,1,1.0,2.0,2,Semi-Furnished,29.33
+779,Uppal,3033,4,5.0,18.0,1,Semi-Furnished,43.59
+1692,Miyapur,3087,4,5.0,3.0,0,Semi-Furnished,49.0
+1949,Kukatpally,1368,1,1.0,12.0,0,Semi-Furnished,21.72
+1032,Kukatpally,1685,2,1.0,0.0,1,Semi-Furnished,26.78
+331,Uppal,3067,4,3.0,0.0,2,Unfurnished,40.61
+1221,Kondapur,1915,2,2.0,23.0,2,Unfurnished,30.33
+1342,Madhapur,1363,2,2.0,24.0,1,Unfurnished,27.09
+1513,Uppal,2355,3,2.0,13.0,1,Semi-Furnished,30.05
+1764,Jubilee Hills,2355,3,4.0,13.0,0,Unfurnished,67.86
+429,Miyapur,1202,1,1.0,15.0,1,Semi-Furnished,19.49
+834,Uppal,1087,1,1.0,5.0,0,Fully-Furnished,19.41
+713,Gachibowli,1031,1,1.0,17.0,2,Unfurnished,19.49
+1000,Jubilee Hills,842,1,2.0,2.0,1,Fully-Furnished,31.35
+1172,LB Nagar,2028,3,2.0,11.0,1,Fully-Furnished,29.6
+1954,Secunderabad,995,2,2.0,4.0,1,Semi-Furnished,21.38
+1885,Kondapur,3338,5,5.0,12.0,0,Unfurnished,58.8
+1468,Kukatpally,2578,4,5.0,1.0,2,Fully-Furnished,54.98
+638,Kukatpally,2743,4,4.0,9.0,0,Semi-Furnished,44.11
+1625,LB Nagar,3161,5,5.0,21.0,1,Fully-Furnished,47.2
+1548,Jubilee Hills,1022,2,2.0,0.0,0,Semi-Furnished,34.25
+1052,Madhapur,1947,3,2.0,14.0,1,Semi-Furnished,39.02
+1328,Secunderabad,975,2,2.0,16.0,0,Semi-Furnished,17.67
+448,Gachibowli,1747,2,3.0,10.0,1,Unfurnished,34.65
+1528,Kondapur,1606,1,2.0,12.0,1,Semi-Furnished,31.2
+1111,LB Nagar,1358,2,3.0,2.0,1,Unfurnished,22.36
+216,Gachibowli,623,1,1.0,14.0,0,Fully-Furnished,17.4
+517,Kukatpally,2758,4,4.0,15.0,1,Unfurnished,38.67
+564,Uppal,1336,2,3.0,9.0,0,Unfurnished,19.98
+1650,Secunderabad,532,1,1.0,24.0,1,Fully-Furnished,14.99
+273,Banjara Hills,3101,4,4.0,11.0,1,Semi-Furnished,82.48
+1068,LB Nagar,1054,3,4.0,4.0,1,Unfurnished,23.65
+639,LB Nagar,1189,2,2.0,22.0,2,Unfurnished,17.02
+1894,Secunderabad,611,1,1.0,24.0,0,Fully-Furnished,14.62
+140,Miyapur,2485,4,4.0,9.0,1,Fully-Furnished,42.65
+1771,Banjara Hills,2506,4,4.0,24.0,1,Fully-Furnished,67.56
+850,Uppal,1837,3,3.0,0.0,1,Semi-Furnished,30.2
+1645,Miyapur,2197,3,4.0,0.0,2,Semi-Furnished,42.05
+1433,Jubilee Hills,1646,2,2.0,12.0,1,Unfurnished,45.13
+1562,Gachibowli,1827,2,3.0,4.0,0,Semi-Furnished,39.25
+782,Banjara Hills,1514,1,1.0,12.0,1,Semi-Furnished,38.33
+1940,Uppal,1343,2,3.0,21.0,0,Semi-Furnished,23.82
+1319,Secunderabad,2611,4,4.0,4.0,1,Fully-Furnished,46.04
+675,Gachibowli,1092,2,2.0,8.0,1,Fully-Furnished,29.56
+820,Madhapur,1895,3,2.0,0.0,2,Semi-Furnished,47.18
+800,Jubilee Hills,1512,2,2.0,14.0,1,Semi-Furnished,46.03
+647,Secunderabad,1443,3,4.0,6.0,1,Fully-Furnished,33.05
+432,Secunderabad,522,2,2.0,0.0,1,Unfurnished,12.68
+1611,Banjara Hills,617,1,2.0,20.0,0,Unfurnished,18.52
+1348,LB Nagar,2954,5,5.0,23.0,0,Semi-Furnished,39.32
+1250,Miyapur,2072,4,5.0,3.0,1,Unfurnished,41.76
+750,Kukatpally,1278,1,1.0,7.0,1,Semi-Furnished,20.35
+1639,LB Nagar,3245,4,3.0,16.0,1,Unfurnished,34.83
+1413,Secunderabad,2267,3,3.0,12.0,2,Fully-Furnished,39.81
+1249,Madhapur,2672,4,3.0,9.0,2,Unfurnished,57.29
+1220,Secunderabad,2872,4,3.0,6.0,1,Fully-Furnished,42.43
+1415,Kondapur,2735,4,5.0,20.0,2,Semi-Furnished,53.01
+1698,Miyapur,2909,4,5.0,5.0,2,Semi-Furnished,46.26
+1908,Miyapur,2736,4,3.0,1.0,1,Semi-Furnished,40.49
+1856,Uppal,604,1,1.0,18.0,1,Semi-Furnished,12.76
+1131,Miyapur,831,1,1.0,13.0,1,Semi-Furnished,14.08
+939,Gachibowli,1898,3,4.0,19.0,2,Semi-Furnished,44.55
+683,LB Nagar,1028,1,1.0,7.0,1,Fully-Furnished,18.13
+734,Jubilee Hills,2283,4,3.0,3.0,1,Semi-Furnished,74.62
+612,Banjara Hills,1931,3,2.0,14.0,2,Fully-Furnished,53.7
+1992,Jubilee Hills,1611,2,2.0,7.0,1,Unfurnished,46.9
+1304,Uppal,2651,3,3.0,5.0,1,Fully-Furnished,40.53
+884,Banjara Hills,941,1,1.0,0.0,1,Unfurnished,26.37
+1823,Secunderabad,2176,3,2.0,21.0,1,Semi-Furnished,30.38
+1175,Madhapur,1961,3,3.0,9.0,1,Semi-Furnished,44.72
+721,Secunderabad,2923,5,5.0,7.0,1,Unfurnished,48.96
+129,LB Nagar,572,1,1.0,16.0,2,Semi-Furnished,13.76
+890,Banjara Hills,2774,3,3.0,18.0,1,Unfurnished,68.38
+1425,Miyapur,1881,3,3.0,10.0,1,Semi-Furnished,30.81
+9,Banjara Hills,1625,2,2.0,9.0,1,Semi-Furnished,44.14
+1978,Kondapur,2983,4,3.0,25.0,0,Semi-Furnished,45.28
+1677,Jubilee Hills,1749,3,3.0,6.0,1,Semi-Furnished,55.57
+1478,Secunderabad,2959,4,4.0,1.0,2,Unfurnished,50.76
+1851,Jubilee Hills,2400,4,4.0,24.0,1,Semi-Furnished,69.25
+527,LB Nagar,1367,3,2.0,17.0,1,Fully-Furnished,23.5
+978,Banjara Hills,2193,3,3.0,13.0,2,Unfurnished,64.28
+507,Madhapur,3447,5,5.0,14.0,1,Fully-Furnished,76.72
+902,Gachibowli,2766,4,4.0,8.0,2,Fully-Furnished,62.06
+1936,Banjara Hills,2214,3,3.0,1.0,1,Unfurnished,65.16
+717,Madhapur,2401,3,3.0,12.0,1,Unfurnished,52.99
+271,Miyapur,1959,3,3.0,3.0,0,Unfurnished,30.23
+1994,Jubilee Hills,2414,3,4.0,6.0,1,Semi-Furnished,78.88
+55,Banjara Hills,2368,4,3.0,23.0,1,Semi-Furnished,64.97
+541,Uppal,975,2,3.0,0.0,1,Unfurnished,17.09
+1318,Kondapur,2546,5,5.0,25.0,1,Semi-Furnished,45.48
+1371,Jubilee Hills,1380,2,1.0,16.0,1,Semi-Furnished,37.17
+1209,Jubilee Hills,1413,1,1.0,5.0,1,Unfurnished,41.23
+190,LB Nagar,2450,2,1.0,15.0,1,Semi-Furnished,26.92
+109,Uppal,2189,3,4.0,4.0,0,Semi-Furnished,34.85
+538,Secunderabad,2151,3,2.0,1.0,1,Semi-Furnished,34.66
+855,Uppal,2820,3,3.0,1.0,1,Fully-Furnished,42.29
+1836,Gachibowli,2951,4,5.0,11.0,0,Semi-Furnished,58.1
+1056,LB Nagar,3296,4,3.0,9.0,1,Semi-Furnished,40.38
+23,Secunderabad,2414,3,2.0,20.0,1,Fully-Furnished,34.02
+377,Miyapur,2350,3,3.0,6.0,0,Semi-Furnished,33.63
+737,Uppal,1567,1,1.0,18.0,1,Fully-Furnished,20.56
+1379,Uppal,1442,2,2.0,17.0,1,Semi-Furnished,20.96
+595,Miyapur,1509,2,2.0,1.0,1,Fully-Furnished,27.11
+1818,Uppal,2126,2,3.0,19.0,0,Fully-Furnished,30.62
+206,Miyapur,2295,4,4.0,12.0,1,Semi-Furnished,39.53
+94,Secunderabad,980,2,2.0,3.0,2,Semi-Furnished,21.91
+808,Jubilee Hills,2094,3,3.0,2.0,2,Semi-Furnished,66.65
+1964,Miyapur,2322,3,3.0,9.0,1,Unfurnished,34.95
+1453,Madhapur,1473,3,4.0,3.0,0,Fully-Furnished,37.98
+1265,Jubilee Hills,2436,3,3.0,13.0,1,Unfurnished,68.37
+1092,Uppal,896,1,1.0,17.0,0,Fully-Furnished,15.09
+447,Madhapur,2006,2,3.0,17.0,0,Unfurnished,35.98
+1182,Jubilee Hills,2521,5,5.0,16.0,2,Unfurnished,69.3
+568,Madhapur,637,1,1.0,8.0,1,Semi-Furnished,17.03
+1667,Kukatpally,724,1,1.0,22.0,2,Unfurnished,11.88
+936,Gachibowli,2720,4,4.0,8.0,0,Fully-Furnished,64.57
+1760,Gachibowli,2390,3,3.0,24.0,1,Unfurnished,41.84
+1526,LB Nagar,1318,1,1.0,17.0,0,Fully-Furnished,19.34
+778,Banjara Hills,539,1,2.0,23.0,1,Semi-Furnished,20.81
+1005,Kukatpally,3106,5,4.0,3.0,0,Unfurnished,45.87
+708,Madhapur,3108,5,5.0,2.0,1,Semi-Furnished,76.15
+561,Miyapur,574,1,1.0,12.0,2,Semi-Furnished,10.84
+1655,Secunderabad,2051,3,3.0,19.0,2,Fully-Furnished,37.45
+1875,Jubilee Hills,1632,2,3.0,24.0,1,Semi-Furnished,49.54
+1778,Miyapur,1783,3,4.0,17.0,2,Unfurnished,30.85
+956,Gachibowli,3367,5,3.0,17.0,1,Unfurnished,70.41
+1211,Banjara Hills,1942,3,3.0,12.0,2,Semi-Furnished,58.08
+470,Jubilee Hills,1537,2,2.0,9.0,1,Fully-Furnished,45.47
+987,Secunderabad,1848,2,2.0,14.0,1,Fully-Furnished,31.82
+1150,Kukatpally,3214,5,4.0,13.0,2,Semi-Furnished,54.07
+810,Secunderabad,2060,3,3.0,19.0,0,Unfurnished,27.4
+1451,Kondapur,3451,5,5.0,25.0,1,Fully-Furnished,66.43
+131,Miyapur,1928,3,3.0,4.0,1,Semi-Furnished,30.09
+982,Kondapur,993,1,1.0,25.0,2,Fully-Furnished,25.36
+848,Miyapur,1442,1,1.0,21.0,0,Semi-Furnished,17.53
+945,Madhapur,1643,2,2.0,17.0,1,Semi-Furnished,35.81
+25,Jubilee Hills,2972,4,4.0,18.0,1,Unfurnished,78.55
+584,Uppal,1872,3,4.0,3.0,0,Fully-Furnished,32.26
+392,Kukatpally,1279,2,2.0,23.0,1,Semi-Furnished,23.35
+343,Miyapur,1462,2,1.0,11.0,1,Fully-Furnished,24.25
+407,Madhapur,1161,2,2.0,8.0,2,Semi-Furnished,33.49
+1559,Kondapur,1412,3,3.0,9.0,1,Semi-Furnished,33.13
+156,Kukatpally,2460,4,4.0,3.0,2,Unfurnished,44.42
+1930,LB Nagar,2938,4,5.0,12.0,2,Fully-Furnished,43.99
+1285,Kukatpally,1503,2,2.0,24.0,0,Semi-Furnished,22.75
+1280,LB Nagar,1939,2,2.0,14.0,1,Semi-Furnished,22.26
+1023,Miyapur,3087,5,4.0,12.0,1,Unfurnished,43.76
+630,Kondapur,2336,4,3.0,24.0,2,Semi-Furnished,50.73
+1828,Secunderabad,1166,2,2.0,11.0,1,Semi-Furnished,22.43
+1505,Kondapur,1611,3,3.0,10.0,2,Semi-Furnished,35.93
+1120,Uppal,1847,3,3.0,5.0,0,Fully-Furnished,28.73
+1057,Miyapur,2375,4,3.0,9.0,1,Semi-Furnished,35.6
+881,Gachibowli,2738,4,5.0,16.0,1,Semi-Furnished,54.8
+1327,Banjara Hills,2010,2,2.0,17.0,0,Fully-Furnished,53.19
+180,Uppal,3014,5,5.0,19.0,1,Fully-Furnished,45.1
+948,Uppal,2352,3,3.0,4.0,2,Semi-Furnished,38.41
+1088,Gachibowli,2312,4,3.0,16.0,2,Semi-Furnished,46.88
+11,Miyapur,2835,3,3.0,5.0,1,Fully-Furnished,40.29
+355,Secunderabad,2301,3,3.0,22.0,2,Semi-Furnished,36.09
+68,Banjara Hills,2431,3,3.0,11.0,1,Unfurnished,63.53
+1281,Gachibowli,1261,2,1.0,25.0,0,Unfurnished,17.9
+146,Gachibowli,594,1,1.0,19.0,0,Unfurnished,9.65
+1987,Uppal,2252,2,1.0,2.0,1,Unfurnished,26.47
+416,Kukatpally,2983,4,5.0,8.0,2,Semi-Furnished,49.81
+393,Gachibowli,1756,3,3.0,25.0,0,Semi-Furnished,33.06
+524,Kukatpally,1497,3,3.0,9.0,0,Unfurnished,26.14
+1970,Secunderabad,753,2,2.0,12.0,1,Semi-Furnished,17.0
+1516,Kondapur,1132,2,2.0,20.0,2,Fully-Furnished,27.99
+438,Kukatpally,1634,2,2.0,4.0,0,Semi-Furnished,24.07
+1226,Miyapur,2148,3,4.0,12.0,0,Fully-Furnished,36.57
+56,Miyapur,2834,4,5.0,22.0,1,Unfurnished,41.33
+139,Uppal,2060,3,4.0,17.0,1,Semi-Furnished,31.8
+1658,LB Nagar,2920,4,4.0,9.0,2,Fully-Furnished,43.43
+196,Banjara Hills,1622,2,3.0,24.0,0,Unfurnished,39.52
+1401,Banjara Hills,3341,5,4.0,21.0,1,Semi-Furnished,81.88
+450,Madhapur,1373,2,3.0,9.0,1,Semi-Furnished,36.93
+547,Secunderabad,2336,4,4.0,0.0,1,Semi-Furnished,36.98
+989,Miyapur,1799,3,3.0,15.0,2,Semi-Furnished,32.4
+1642,Banjara Hills,2222,3,2.0,18.0,1,Fully-Furnished,56.74
+970,Kukatpally,2121,2,2.0,12.0,0,Semi-Furnished,30.08
+1171,Banjara Hills,1931,3,2.0,3.0,1,Semi-Furnished,55.29
+1488,Jubilee Hills,1994,2,2.0,23.0,1,Semi-Furnished,54.76
+175,Banjara Hills,2384,3,3.0,22.0,1,Fully-Furnished,61.85
+255,Miyapur,1199,2,3.0,8.0,0,Semi-Furnished,23.1
+386,Secunderabad,3435,5,4.0,14.0,2,Fully-Furnished,58.16
+1910,Miyapur,2512,4,4.0,2.0,1,Unfurnished,38.88
+1102,Madhapur,955,1,2.0,10.0,2,Fully-Furnished,29.54
+1746,Banjara Hills,2041,3,4.0,18.0,1,Fully-Furnished,66.43
+712,Uppal,2824,3,3.0,2.0,1,Unfurnished,34.39
+838,LB Nagar,2703,5,5.0,21.0,1,Semi-Furnished,40.55
+1931,LB Nagar,2138,4,4.0,21.0,0,Unfurnished,27.83
+1896,Kukatpally,2081,3,4.0,17.0,2,Semi-Furnished,38.04
+90,Madhapur,3007,5,5.0,12.0,2,Semi-Furnished,61.01
+1345,LB Nagar,1751,3,4.0,7.0,2,Semi-Furnished,32.35
+1892,Uppal,3100,4,3.0,2.0,1,Semi-Furnished,32.84
+1888,Kukatpally,1922,3,3.0,4.0,2,Semi-Furnished,38.02
+1,LB Nagar,2077,3,3.0,2.0,2,Fully-Furnished,33.62
+1417,Gachibowli,756,1,1.0,20.0,1,Unfurnished,14.3
+823,Kukatpally,2758,3,2.0,17.0,1,Semi-Furnished,37.56
+1030,Madhapur,693,1,2.0,8.0,2,Unfurnished,21.51
+1126,Banjara Hills,2274,3,3.0,0.0,1,Semi-Furnished,69.01
+1180,Jubilee Hills,874,1,2.0,24.0,1,Semi-Furnished,28.65
+40,Miyapur,557,1,2.0,12.0,2,Unfurnished,13.87
+1402,Uppal,612,1,3.0,11.0,1,Fully-Furnished,18.9
+1013,Uppal,2779,5,5.0,25.0,2,Semi-Furnished,42.09
+944,Banjara Hills,897,1,2.0,11.0,0,Unfurnished,23.55
+666,Kukatpally,2992,3,3.0,12.0,0,Semi-Furnished,41.39
+453,Gachibowli,2849,4,4.0,3.0,2,Semi-Furnished,63.56
+781,LB Nagar,2767,5,5.0,12.0,0,Semi-Furnished,40.92
+1149,Gachibowli,3001,4,4.0,5.0,1,Fully-Furnished,69.43
+178,Kondapur,1583,3,3.0,22.0,0,Semi-Furnished,29.59
+137,Jubilee Hills,2501,3,3.0,18.0,2,Fully-Furnished,74.93
+337,Kondapur,1746,3,3.0,20.0,1,Unfurnished,32.88
+119,LB Nagar,511,1,1.0,18.0,2,Semi-Furnished,12.86
+1889,Secunderabad,3301,5,5.0,11.0,2,Fully-Furnished,59.36
+1259,Banjara Hills,1296,2,2.0,12.0,2,Fully-Furnished,48.08
+352,Uppal,689,2,3.0,4.0,2,Fully-Furnished,24.35
+625,Gachibowli,2141,3,4.0,12.0,1,Unfurnished,44.84
+193,Banjara Hills,956,1,1.0,7.0,1,Semi-Furnished,28.62
+1492,Banjara Hills,2450,3,4.0,18.0,1,Semi-Furnished,70.38
+1375,Miyapur,1846,3,4.0,17.0,1,Fully-Furnished,33.35
+136,Secunderabad,2311,4,4.0,0.0,1,Semi-Furnished,39.73
+461,LB Nagar,3047,5,4.0,1.0,1,Semi-Furnished,41.06
+42,Kondapur,1653,2,3.0,16.0,1,Unfurnished,32.8
+699,Kondapur,1087,1,1.0,9.0,1,Fully-Furnished,25.66
+637,Kondapur,1964,3,3.0,18.0,2,Unfurnished,35.31
+359,Uppal,2011,3,2.0,12.0,0,Unfurnished,22.9
+1747,Banjara Hills,1616,2,1.0,24.0,1,Semi-Furnished,37.71
+814,Miyapur,2439,4,5.0,20.0,1,Semi-Furnished,43.47
+619,Kukatpally,662,1,1.0,17.0,1,Unfurnished,10.55
+466,Secunderabad,813,1,1.0,8.0,2,Fully-Furnished,21.58
+1798,Jubilee Hills,3380,5,4.0,22.0,0,Semi-Furnished,88.17
+1693,Banjara Hills,777,1,1.0,1.0,1,Fully-Furnished,29.51
+1395,Jubilee Hills,2741,4,5.0,15.0,2,Semi-Furnished,88.41
+80,Jubilee Hills,785,2,2.0,15.0,0,Fully-Furnished,29.18
+1777,Kukatpally,1913,3,3.0,18.0,2,Unfurnished,32.44
+492,LB Nagar,2749,4,3.0,12.0,0,Semi-Furnished,29.75
+1864,Gachibowli,3280,5,5.0,6.0,2,Fully-Furnished,77.25
+528,Kukatpally,2566,3,2.0,0.0,1,Semi-Furnished,45.35
+1839,Kukatpally,3265,5,5.0,22.0,0,Semi-Furnished,50.92
+1324,Kondapur,2208,3,4.0,9.0,0,Fully-Furnished,45.95
+1369,Gachibowli,3488,5,3.0,13.0,1,Fully-Furnished,77.41
+1491,Kondapur,1535,2,3.0,12.0,0,Unfurnished,27.26
+1847,Jubilee Hills,2871,4,4.0,21.0,1,Fully-Furnished,85.67
+1950,Uppal,3084,4,4.0,8.0,1,Semi-Furnished,48.05
+1707,LB Nagar,3410,5,4.0,0.0,0,Unfurnished,41.91
+1136,LB Nagar,604,1,1.0,19.0,2,Semi-Furnished,15.43
+480,Jubilee Hills,1655,3,3.0,8.0,1,Semi-Furnished,54.43
+1780,Gachibowli,1382,2,2.0,23.0,1,Unfurnished,24.91
+103,LB Nagar,3308,5,5.0,11.0,1,Semi-Furnished,47.28
+664,Kukatpally,883,1,2.0,25.0,2,Unfurnished,17.67
+743,Jubilee Hills,2314,3,4.0,19.0,1,Unfurnished,62.89
+1537,Kondapur,2448,3,2.0,25.0,2,Semi-Furnished,41.56
+1557,Jubilee Hills,1816,3,3.0,16.0,2,Fully-Furnished,56.52
+54,Kondapur,3000,5,4.0,19.0,2,Fully-Furnished,54.3
+988,Kukatpally,1827,3,2.0,11.0,0,Fully-Furnished,27.31
+1306,LB Nagar,2284,3,4.0,21.0,1,Fully-Furnished,36.11
+1466,Jubilee Hills,1804,2,1.0,10.0,0,Fully-Furnished,51.28
+69,LB Nagar,3062,5,4.0,2.0,2,Fully-Furnished,50.47
+276,Gachibowli,2944,5,5.0,11.0,1,Semi-Furnished,63.51
+718,Gachibowli,1383,3,4.0,16.0,0,Unfurnished,32.89
+1101,LB Nagar,1083,1,1.0,9.0,1,Semi-Furnished,15.5
+334,LB Nagar,2073,4,4.0,0.0,2,Semi-Furnished,37.75
+1310,Madhapur,1498,3,4.0,23.0,0,Unfurnished,29.43
+787,LB Nagar,1112,1,3.0,21.0,2,Semi-Furnished,17.12
+785,Banjara Hills,2415,2,3.0,1.0,0,Unfurnished,66.6
+1423,Jubilee Hills,913,2,2.0,22.0,1,Unfurnished,23.99
+1159,Kukatpally,767,1,1.0,25.0,1,Fully-Furnished,16.72
+955,Miyapur,3220,5,5.0,8.0,1,Fully-Furnished,58.61
+1138,LB Nagar,2997,5,5.0,4.0,1,Unfurnished,40.41
+1391,Kukatpally,625,1,2.0,19.0,1,Fully-Furnished,18.82
+659,Gachibowli,2852,3,4.0,25.0,0,Fully-Furnished,60.01
+128,Kukatpally,1447,3,2.0,5.0,1,Semi-Furnished,26.16
+1482,Kondapur,3394,4,3.0,10.0,1,Fully-Furnished,60.3
+1929,Secunderabad,3227,5,4.0,16.0,2,Unfurnished,47.11
+1635,Uppal,618,1,1.0,15.0,1,Unfurnished,9.76
+1476,Madhapur,1159,2,2.0,15.0,2,Semi-Furnished,29.82
+460,Madhapur,1916,3,3.0,23.0,1,Fully-Furnished,46.38
+1107,Gachibowli,3149,4,5.0,12.0,1,Semi-Furnished,60.76
+951,LB Nagar,3012,5,5.0,11.0,1,Unfurnished,40.35
+1080,LB Nagar,2929,5,5.0,21.0,1,Semi-Furnished,41.68
+770,Gachibowli,3322,5,5.0,15.0,2,Unfurnished,63.41
+75,Banjara Hills,2040,3,3.0,18.0,2,Fully-Furnished,63.47
+1130,Banjara Hills,1636,2,2.0,14.0,1,Unfurnished,43.98
+1188,Kondapur,1679,3,3.0,17.0,0,Semi-Furnished,32.22
+1672,Kondapur,1115,1,1.0,0.0,1,Fully-Furnished,24.71
+462,Gachibowli,3479,4,4.0,15.0,1,Fully-Furnished,70.68
+1434,Kondapur,857,1,1.0,10.0,1,Semi-Furnished,18.45
+640,Banjara Hills,2510,3,4.0,3.0,2,Semi-Furnished,76.8
+1728,Uppal,3493,5,5.0,8.0,1,Fully-Furnished,50.29
+519,Madhapur,1163,2,1.0,7.0,0,Unfurnished,19.59
+1701,Kondapur,3054,5,4.0,25.0,1,Semi-Furnished,51.77
+1776,Jubilee Hills,2701,4,5.0,22.0,2,Semi-Furnished,82.15
+930,LB Nagar,3494,5,5.0,13.0,0,Unfurnished,44.09
+231,Miyapur,1009,1,1.0,19.0,1,Semi-Furnished,16.79
+413,Kukatpally,3088,5,5.0,12.0,2,Semi-Furnished,55.83
+556,Miyapur,898,2,2.0,12.0,1,Unfurnished,15.52
+544,Secunderabad,1470,2,3.0,9.0,2,Fully-Furnished,31.17
+1387,Miyapur,1182,1,1.0,0.0,2,Semi-Furnished,20.27
+1295,Secunderabad,3030,4,4.0,23.0,1,Semi-Furnished,45.02
+1568,Madhapur,2019,2,2.0,20.0,1,Unfurnished,36.68
+1604,Gachibowli,1961,3,3.0,20.0,1,Semi-Furnished,40.6
+1251,Gachibowli,2717,5,4.0,16.0,1,Unfurnished,51.75
+645,Gachibowli,1671,2,2.0,14.0,1,Semi-Furnished,34.9
+1472,LB Nagar,1969,4,5.0,20.0,2,Unfurnished,34.29
+1644,Kondapur,3292,5,5.0,6.0,1,Fully-Furnished,67.02
+959,Miyapur,1726,2,3.0,12.0,0,Fully-Furnished,29.81
+665,LB Nagar,2431,4,3.0,9.0,1,Fully-Furnished,37.39
+1973,Madhapur,509,1,2.0,7.0,1,Fully-Furnished,22.09
+1582,Uppal,3445,5,5.0,20.0,1,Unfurnished,41.18
+772,Miyapur,2934,5,5.0,5.0,2,Semi-Furnished,47.49
+1481,LB Nagar,2955,5,5.0,7.0,1,Unfurnished,40.53
+1791,Miyapur,1019,1,1.0,25.0,0,Fully-Furnished,16.82
+262,Kondapur,1128,2,1.0,23.0,2,Semi-Furnished,21.72
+295,Gachibowli,2747,4,4.0,1.0,1,Fully-Furnished,62.0
+1385,LB Nagar,521,1,1.0,9.0,1,Unfurnished,8.6
+1426,Kukatpally,1598,2,2.0,15.0,1,Semi-Furnished,23.77
+1431,Jubilee Hills,2592,3,3.0,22.0,2,Semi-Furnished,70.99
+160,Banjara Hills,3029,3,2.0,16.0,0,Semi-Furnished,75.86
+1392,Madhapur,776,2,2.0,5.0,1,Fully-Furnished,25.09
+651,Gachibowli,1395,1,1.0,16.0,2,Fully-Furnished,33.18
+1863,Madhapur,2460,3,4.0,24.0,2,Semi-Furnished,50.94
+695,Gachibowli,597,1,1.0,9.0,2,Fully-Furnished,19.07
+910,Madhapur,3159,4,5.0,20.0,1,Unfurnished,65.33
+1983,Gachibowli,3416,4,5.0,0.0,1,Unfurnished,77.89
+869,Miyapur,2795,5,5.0,21.0,1,Fully-Furnished,45.88
+1729,Jubilee Hills,2969,3,3.0,9.0,1,Semi-Furnished,86.83
+15,Uppal,535,1,2.0,12.0,1,Fully-Furnished,19.17
+1350,Gachibowli,2446,4,4.0,12.0,2,Fully-Furnished,54.35
+463,Secunderabad,3145,4,4.0,0.0,2,Unfurnished,52.17
+1732,LB Nagar,3283,5,4.0,12.0,2,Semi-Furnished,43.34
+1884,Secunderabad,2679,4,4.0,24.0,0,Unfurnished,33.57
+620,Jubilee Hills,2474,4,5.0,18.0,1,Fully-Furnished,81.62
+1578,Miyapur,3288,5,5.0,22.0,1,Semi-Furnished,50.23
+1579,Jubilee Hills,896,1,1.0,17.0,1,Unfurnished,23.06
+1261,Gachibowli,558,1,1.0,24.0,1,Fully-Furnished,17.35
+874,Gachibowli,2748,3,3.0,3.0,1,Unfurnished,55.9
+467,Secunderabad,3113,5,4.0,2.0,0,Semi-Furnished,50.63
+754,Uppal,3055,4,3.0,5.0,1,Fully-Furnished,44.76
+1846,Gachibowli,1605,3,3.0,18.0,1,Semi-Furnished,34.56
+942,Kukatpally,1286,1,1.0,11.0,1,Semi-Furnished,20.45
+883,Kondapur,3063,4,3.0,14.0,1,Fully-Furnished,52.59
+292,Madhapur,3349,5,5.0,22.0,1,Semi-Furnished,70.33
+234,Gachibowli,2097,3,3.0,24.0,0,Semi-Furnished,39.49
+742,Banjara Hills,3226,5,5.0,10.0,0,Unfurnished,87.64
+1349,Miyapur,898,1,1.0,0.0,2,Unfurnished,13.95
+1305,Secunderabad,1737,3,2.0,0.0,1,Semi-Furnished,29.0
+1680,Madhapur,1647,1,1.0,12.0,2,Semi-Furnished,37.47
+1979,Kukatpally,1634,2,3.0,9.0,1,Fully-Furnished,28.72
+50,Banjara Hills,2321,3,4.0,16.0,1,Semi-Furnished,62.59
+786,Madhapur,1187,1,2.0,9.0,2,Semi-Furnished,31.7
+1084,Gachibowli,2072,4,4.0,25.0,1,Semi-Furnished,40.2
+1242,Kukatpally,2350,4,3.0,12.0,1,Fully-Furnished,42.97
+535,LB Nagar,3028,5,5.0,9.0,2,Unfurnished,44.87
+629,Uppal,1340,1,1.0,17.0,2,Unfurnished,17.25
+929,Banjara Hills,582,1,2.0,11.0,0,Fully-Furnished,24.94
+1691,Miyapur,933,1,1.0,19.0,1,Unfurnished,13.45
+1081,Madhapur,2780,5,5.0,23.0,0,Semi-Furnished,58.53
+400,Banjara Hills,1146,1,1.0,19.0,0,Fully-Furnished,31.2
+1477,LB Nagar,659,1,1.0,15.0,2,Semi-Furnished,14.3
+1623,Kondapur,886,1,2.0,0.0,1,Semi-Furnished,21.35
+1358,Miyapur,1103,1,3.0,9.0,1,Unfurnished,15.07
+1465,Gachibowli,1576,2,3.0,3.0,1,Semi-Furnished,38.51
+1062,Gachibowli,1497,2,2.0,2.0,1,Semi-Furnished,32.37
+590,Kukatpally,2808,4,4.0,8.0,1,Semi-Furnished,45.13
+674,Jubilee Hills,2836,4,4.0,15.0,1,Fully-Furnished,86.2
+107,Madhapur,1703,3,4.0,7.0,0,Semi-Furnished,42.57
+836,Uppal,2321,4,4.0,23.0,1,Semi-Furnished,34.91
+252,Miyapur,663,2,2.0,5.0,1,Fully-Furnished,20.01
+1600,Uppal,1439,1,1.0,21.0,1,Semi-Furnished,17.74
+1944,Banjara Hills,2488,4,4.0,0.0,0,Semi-Furnished,73.0
+1240,Uppal,2341,4,3.0,12.0,0,Semi-Furnished,28.32
+795,Jubilee Hills,2430,4,4.0,12.0,2,Unfurnished,75.5
+669,Secunderabad,1128,1,1.0,14.0,1,Semi-Furnished,18.85
+682,Banjara Hills,676,2,1.0,1.0,0,Semi-Furnished,20.96
+804,Secunderabad,1423,2,2.0,12.0,1,Unfurnished,20.14
+1206,Secunderabad,1332,2,1.0,25.0,0,Semi-Furnished,16.91
+1078,LB Nagar,3165,4,3.0,7.0,2,Semi-Furnished,42.57
+1895,Jubilee Hills,1114,2,2.0,21.0,0,Semi-Furnished,30.58
+347,Madhapur,2140,3,2.0,0.0,0,Semi-Furnished,46.08
+1753,Secunderabad,2597,3,4.0,6.0,0,Semi-Furnished,40.94
+152,LB Nagar,737,1,1.0,13.0,1,Fully-Furnished,16.56
+1737,Uppal,3145,4,3.0,0.0,2,Semi-Furnished,48.19
+828,Banjara Hills,2399,3,2.0,14.0,2,Semi-Furnished,68.08
+1255,Kondapur,1285,2,3.0,10.0,2,Semi-Furnished,34.62
+525,LB Nagar,1640,2,1.0,9.0,1,Semi-Furnished,20.08
+1266,LB Nagar,2656,3,3.0,25.0,1,Fully-Furnished,31.52
+22,Gachibowli,1876,3,2.0,11.0,0,Unfurnished,32.31
+406,LB Nagar,1097,1,1.0,0.0,1,Fully-Furnished,19.42
+258,Madhapur,2440,5,4.0,14.0,1,Semi-Furnished,51.98
+701,LB Nagar,1817,3,3.0,10.0,0,Fully-Furnished,31.86
+389,Kukatpally,1745,2,2.0,25.0,1,Semi-Furnished,25.56
+186,Kondapur,1141,1,1.0,20.0,1,Semi-Furnished,21.16
+44,Jubilee Hills,1695,2,2.0,12.0,0,Semi-Furnished,50.06
+474,Kukatpally,1514,2,2.0,8.0,1,Semi-Furnished,28.04
+853,Miyapur,2826,5,5.0,13.0,1,Semi-Furnished,46.94
+341,LB Nagar,3010,5,4.0,23.0,2,Semi-Furnished,40.59
+1167,Uppal,548,1,1.0,11.0,0,Semi-Furnished,9.98
+1462,Banjara Hills,936,1,1.0,23.0,1,Unfurnished,24.14
+1543,Kukatpally,2722,4,4.0,25.0,0,Semi-Furnished,39.36
+1042,Madhapur,761,1,1.0,5.0,0,Semi-Furnished,19.57
+1947,Uppal,805,1,1.0,3.0,0,Semi-Furnished,12.42
+961,Jubilee Hills,2262,3,2.0,13.0,1,Semi-Furnished,55.86
+1503,Miyapur,2841,5,4.0,17.0,0,Unfurnished,35.62
+1454,Secunderabad,1131,2,1.0,18.0,2,Unfurnished,17.9
+1351,Kukatpally,1214,1,1.0,4.0,1,Fully-Furnished,23.83
+316,Secunderabad,2450,4,4.0,17.0,1,Semi-Furnished,41.13
+330,Jubilee Hills,2537,4,5.0,10.0,1,Unfurnished,73.92
+513,LB Nagar,2706,4,4.0,3.0,1,Semi-Furnished,36.6
+1469,Secunderabad,2884,4,5.0,16.0,1,Unfurnished,43.91
+346,Banjara Hills,2113,2,2.0,17.0,2,Semi-Furnished,53.08
+833,Kukatpally,1654,3,3.0,12.0,1,Semi-Furnished,28.23
+1311,Banjara Hills,3067,4,4.0,21.0,2,Semi-Furnished,85.7
+684,Secunderabad,2133,2,2.0,12.0,1,Semi-Furnished,33.33
+1003,Miyapur,2985,4,5.0,7.0,1,Unfurnished,46.44
+1967,Madhapur,942,1,1.0,14.0,1,Semi-Furnished,21.48
+1906,Kukatpally,539,1,3.0,16.0,1,Fully-Furnished,18.18
+773,Gachibowli,3424,4,4.0,9.0,2,Semi-Furnished,71.18
+67,Miyapur,1923,2,3.0,8.0,2,Unfurnished,27.09
+1652,Secunderabad,3066,5,5.0,12.0,1,Semi-Furnished,50.09
+933,Uppal,1798,3,4.0,23.0,0,Unfurnished,27.31
+1957,Jubilee Hills,1545,3,4.0,8.0,1,Unfurnished,51.6
+1832,Banjara Hills,1100,2,2.0,15.0,1,Semi-Furnished,32.02
+644,Kondapur,1171,1,1.0,25.0,2,Unfurnished,20.2
+1797,Kondapur,2129,2,3.0,0.0,1,Semi-Furnished,44.15
+1308,LB Nagar,3334,5,5.0,12.0,0,Fully-Furnished,45.25
+646,Kukatpally,1995,3,3.0,15.0,2,Unfurnished,32.18
+418,Secunderabad,1986,3,2.0,17.0,0,Unfurnished,25.13
+1733,Jubilee Hills,1645,2,1.0,17.0,1,Unfurnished,41.57
+1471,Uppal,3091,4,4.0,5.0,1,Semi-Furnished,42.4
+1139,Secunderabad,2342,3,3.0,19.0,1,Fully-Furnished,38.18
+542,LB Nagar,3310,4,3.0,1.0,1,Semi-Furnished,38.71
+1941,LB Nagar,2034,3,2.0,10.0,1,Semi-Furnished,26.11
+1897,Kondapur,3471,4,5.0,23.0,2,Semi-Furnished,64.07
+1841,Secunderabad,1184,2,2.0,15.0,2,Semi-Furnished,22.09
+1296,Jubilee Hills,1408,2,3.0,14.0,0,Unfurnished,34.94
+314,Secunderabad,2824,4,3.0,14.0,0,Unfurnished,38.22
+307,Miyapur,1344,3,4.0,9.0,1,Fully-Furnished,31.46
+941,Kondapur,2031,3,4.0,12.0,1,Semi-Furnished,40.18
+1309,Jubilee Hills,664,1,2.0,21.0,2,Semi-Furnished,23.88
+130,LB Nagar,898,1,1.0,24.0,2,Semi-Furnished,15.49
+396,Gachibowli,3208,5,5.0,16.0,1,Unfurnished,65.48
+1857,Madhapur,2424,4,5.0,17.0,0,Semi-Furnished,57.88
+327,Gachibowli,1784,3,3.0,5.0,2,Unfurnished,38.08
+192,LB Nagar,1986,3,2.0,19.0,0,Semi-Furnished,23.88
+723,Gachibowli,2760,4,4.0,25.0,2,Fully-Furnished,56.34
+1174,Kondapur,2824,4,3.0,3.0,2,Unfurnished,54.29
+1815,Banjara Hills,2869,4,3.0,3.0,2,Semi-Furnished,86.42
+1065,Kondapur,1380,2,1.0,14.0,0,Semi-Furnished,22.32
+1331,LB Nagar,1543,2,2.0,0.0,1,Fully-Furnished,27.24
+1398,Gachibowli,556,2,2.0,23.0,1,Fully-Furnished,19.61
+994,Banjara Hills,1558,2,1.0,14.0,0,Unfurnished,37.24
+921,Madhapur,923,1,1.0,18.0,2,Fully-Furnished,25.99
+496,Gachibowli,687,1,2.0,0.0,1,Semi-Furnished,23.0
+1297,Secunderabad,1634,3,3.0,25.0,1,Unfurnished,26.15
+1033,Jubilee Hills,2894,4,4.0,16.0,2,Unfurnished,85.08
+868,Uppal,1435,1,1.0,0.0,0,Unfurnished,15.06
+385,LB Nagar,2660,4,4.0,11.0,1,Semi-Furnished,34.34
+1479,Secunderabad,1511,2,2.0,9.0,0,Unfurnished,21.96
+653,Jubilee Hills,1836,3,2.0,10.0,1,Semi-Furnished,54.03
+398,Uppal,801,1,1.0,6.0,2,Semi-Furnished,15.16
+1943,Gachibowli,3298,5,5.0,7.0,1,Fully-Furnished,71.85
+947,Madhapur,1960,3,3.0,15.0,2,Fully-Furnished,50.63
+1494,Uppal,853,1,1.0,8.0,0,Fully-Furnished,14.71
+1995,Kondapur,1506,2,3.0,17.0,2,Unfurnished,31.74
+725,Gachibowli,2249,3,3.0,24.0,1,Unfurnished,38.49
+533,Kukatpally,2660,5,5.0,3.0,0,Semi-Furnished,48.61
+162,Banjara Hills,1463,2,3.0,24.0,1,Semi-Furnished,42.27
+1335,Uppal,2105,3,2.0,5.0,1,Semi-Furnished,28.05
+1678,Madhapur,2959,4,3.0,23.0,1,Semi-Furnished,58.88
+1104,Secunderabad,1632,2,2.0,12.0,0,Fully-Furnished,27.54
+1040,Secunderabad,3120,4,3.0,6.0,1,Unfurnished,42.46
+1367,Kukatpally,2363,4,4.0,23.0,2,Semi-Furnished,42.08
+1438,Jubilee Hills,2180,3,3.0,21.0,1,Fully-Furnished,64.49
+1074,Uppal,840,1,1.0,6.0,1,Semi-Furnished,14.78
+1275,Kukatpally,2890,4,4.0,17.0,0,Semi-Furnished,43.16
+1712,Uppal,715,2,2.0,20.0,1,Semi-Furnished,13.4
+21,Kukatpally,3195,3,3.0,21.0,2,Semi-Furnished,44.73
+570,Madhapur,2294,4,4.0,7.0,1,Fully-Furnished,56.72
+1455,Madhapur,2090,4,5.0,25.0,1,Fully-Furnished,48.45
+1160,Uppal,2966,4,5.0,18.0,1,Fully-Furnished,45.64
+654,Madhapur,664,1,2.0,15.0,0,Unfurnished,16.21
+697,Kukatpally,934,1,1.0,3.0,1,Unfurnished,12.66
+482,Secunderabad,2429,4,4.0,21.0,2,Semi-Furnished,41.66
+34,Madhapur,2696,4,4.0,7.0,0,Semi-Furnished,61.61
+1135,Kukatpally,1458,1,2.0,5.0,0,Unfurnished,22.16
+1407,Gachibowli,524,1,1.0,21.0,2,Semi-Furnished,16.0
+1050,Kondapur,3300,5,5.0,21.0,0,Unfurnished,57.57
+48,Miyapur,2901,4,3.0,22.0,2,Semi-Furnished,39.69
+1461,Uppal,2193,3,3.0,25.0,1,Fully-Furnished,36.69
+1199,Gachibowli,2443,3,3.0,14.0,1,Unfurnished,41.0
+30,Miyapur,1455,3,3.0,18.0,1,Unfurnished,25.39
+1006,Banjara Hills,1026,2,2.0,13.0,1,Fully-Furnished,35.07
+1178,Banjara Hills,2967,4,4.0,14.0,1,Unfurnished,77.4
+1522,Gachibowli,927,1,2.0,5.0,2,Unfurnished,25.61
+1796,Jubilee Hills,994,1,2.0,6.0,2,Unfurnished,34.45
+1186,Secunderabad,1974,3,2.0,2.0,2,Fully-Furnished,34.02
+1269,Kondapur,2852,5,4.0,1.0,2,Semi-Furnished,60.97
+511,Madhapur,1093,2,3.0,15.0,0,Unfurnished,26.47
+1183,Uppal,1553,3,2.0,5.0,0,Semi-Furnished,21.73
+531,LB Nagar,1873,3,4.0,0.0,2,Unfurnished,32.43
+923,Miyapur,769,1,1.0,12.0,2,Fully-Furnished,20.03
+502,Gachibowli,1025,2,3.0,12.0,2,Semi-Furnished,29.01
+433,Secunderabad,2960,4,5.0,18.0,1,Unfurnished,45.27
+254,Banjara Hills,996,2,3.0,21.0,2,Unfurnished,32.13
+1845,Jubilee Hills,1192,2,3.0,0.0,2,Unfurnished,45.87
+1758,Miyapur,2819,4,3.0,8.0,2,Fully-Furnished,47.27
+780,Secunderabad,3476,5,4.0,12.0,1,Fully-Furnished,50.72
+1077,Gachibowli,817,1,1.0,12.0,2,Semi-Furnished,21.93
+1079,Gachibowli,1886,2,2.0,11.0,0,Semi-Furnished,37.5
+681,Kondapur,2970,4,4.0,21.0,0,Semi-Furnished,50.55
+1621,Uppal,897,1,1.0,22.0,1,Unfurnished,11.89
+813,Kondapur,2743,3,4.0,12.0,1,Unfurnished,50.03
+736,LB Nagar,2491,4,4.0,13.0,0,Fully-Furnished,35.22
+1049,Kondapur,2144,3,3.0,9.0,0,Semi-Furnished,39.06
+299,Madhapur,3014,4,4.0,10.0,1,Unfurnished,70.4
+557,Gachibowli,2233,4,4.0,10.0,1,Fully-Furnished,57.53
+576,LB Nagar,3257,5,5.0,16.0,2,Fully-Furnished,48.87
+19,Uppal,2422,4,3.0,7.0,2,Semi-Furnished,34.04
+573,Miyapur,2385,4,4.0,17.0,0,Semi-Furnished,35.31
+1279,Jubilee Hills,1877,2,2.0,6.0,2,Semi-Furnished,63.01
+226,Secunderabad,2049,3,3.0,7.0,0,Semi-Furnished,35.16
+600,Gachibowli,2361,3,2.0,17.0,0,Semi-Furnished,40.02
+420,LB Nagar,587,1,1.0,9.0,2,Semi-Furnished,13.93
+1573,Miyapur,1372,2,1.0,2.0,1,Semi-Furnished,20.52
+1303,Kukatpally,2820,5,4.0,10.0,1,Semi-Furnished,46.58
+1247,Miyapur,3032,4,3.0,23.0,1,Unfurnished,34.37
+1656,Kondapur,1219,2,2.0,9.0,0,Semi-Furnished,22.03
+1449,Kukatpally,1813,3,4.0,15.0,1,Fully-Furnished,36.07
+219,Kondapur,2097,3,3.0,2.0,2,Unfurnished,42.32
+308,Kukatpally,586,1,2.0,5.0,1,Fully-Furnished,19.18
+157,Gachibowli,3449,5,5.0,4.0,1,Semi-Furnished,64.62
+172,Gachibowli,2994,3,3.0,12.0,0,Fully-Furnished,55.39
+1607,Uppal,734,1,1.0,3.0,2,Unfurnished,12.39
+706,Kondapur,2790,4,5.0,16.0,2,Unfurnished,52.74
+287,Kondapur,741,1,1.0,8.0,0,Unfurnished,11.76
+1091,Kondapur,2074,4,4.0,10.0,1,Unfurnished,40.05
+454,Gachibowli,2778,5,5.0,4.0,1,Fully-Furnished,65.38
+1966,Banjara Hills,2579,3,3.0,12.0,1,Fully-Furnished,79.54
+72,Kukatpally,847,2,3.0,24.0,1,Fully-Furnished,22.13
+1926,Secunderabad,1849,3,3.0,22.0,2,Unfurnished,25.75
+1935,Secunderabad,883,1,1.0,19.0,2,Unfurnished,14.67
+1980,Gachibowli,652,1,1.0,0.0,2,Semi-Furnished,18.8
+1945,Secunderabad,2432,3,4.0,16.0,1,Fully-Furnished,47.03
+16,Kukatpally,1243,2,3.0,3.0,0,Semi-Furnished,25.24
+536,Kondapur,1669,3,3.0,22.0,1,Unfurnished,27.99
+1550,Madhapur,930,2,2.0,18.0,1,Semi-Furnished,24.14
+919,Kukatpally,2404,5,5.0,0.0,1,Fully-Furnished,48.25
+452,Madhapur,1928,2,1.0,23.0,0,Unfurnished,30.02
+1547,Madhapur,1428,3,4.0,11.0,1,Semi-Furnished,39.51
+405,Uppal,755,1,1.0,16.0,2,Fully-Furnished,17.87
+1877,Gachibowli,2746,4,4.0,21.0,1,Unfurnished,51.4
+1515,Banjara Hills,1167,2,2.0,13.0,1,Fully-Furnished,42.05
+1824,Secunderabad,1696,2,1.0,8.0,0,Fully-Furnished,27.24
+740,Banjara Hills,2774,3,2.0,11.0,1,Unfurnished,66.96
+365,Kukatpally,2898,4,3.0,5.0,1,Semi-Furnished,46.35
+1484,Kondapur,1553,2,1.0,12.0,0,Fully-Furnished,27.94
+105,Banjara Hills,2366,4,4.0,12.0,1,Unfurnished,65.19
+1293,Kondapur,2482,3,3.0,16.0,1,Semi-Furnished,41.91
+1883,Banjara Hills,961,2,3.0,4.0,0,Semi-Furnished,31.13
+376,Banjara Hills,987,2,1.0,21.0,2,Unfurnished,26.77
+662,Uppal,2380,3,4.0,24.0,2,Semi-Furnished,36.76
+242,Madhapur,1400,2,3.0,11.0,2,Fully-Furnished,41.14
+431,Miyapur,2566,4,4.0,15.0,1,Fully-Furnished,46.41
+815,Uppal,1429,2,3.0,16.0,2,Semi-Furnished,26.18
+1946,LB Nagar,2349,3,2.0,11.0,1,Semi-Furnished,28.78
+1228,Secunderabad,1957,3,3.0,5.0,1,Unfurnished,28.61
+631,Madhapur,1751,2,2.0,17.0,1,Unfurnished,33.73
+468,Kondapur,2756,4,4.0,24.0,2,Unfurnished,48.02
+1598,Jubilee Hills,1551,2,2.0,12.0,1,Fully-Furnished,45.77
+1517,Kondapur,3124,5,5.0,10.0,0,Fully-Furnished,68.27
+1191,Uppal,2570,3,2.0,15.0,1,Fully-Furnished,36.16
+85,Banjara Hills,2266,4,4.0,10.0,1,Semi-Furnished,63.57
+702,Uppal,2479,4,3.0,13.0,1,Fully-Furnished,35.01
+10,Kukatpally,3101,3,3.0,10.0,1,Semi-Furnished,46.54
+605,LB Nagar,687,1,1.0,11.0,0,Semi-Furnished,10.8
+879,Miyapur,1354,2,3.0,2.0,2,Semi-Furnished,28.93
+1340,Kondapur,2271,3,3.0,4.0,2,Fully-Furnished,48.81
+774,Banjara Hills,758,2,1.0,12.0,1,Fully-Furnished,28.41
+1386,Miyapur,2249,3,2.0,14.0,1,Semi-Furnished,31.75
+1163,Kukatpally,2498,4,3.0,12.0,1,Semi-Furnished,35.08
+277,Gachibowli,3172,4,3.0,9.0,0,Semi-Furnished,60.78
+1409,Madhapur,2548,4,4.0,25.0,0,Fully-Furnished,49.89
+1373,Jubilee Hills,1339,1,1.0,11.0,2,Unfurnished,35.2
+91,Madhapur,2023,4,5.0,10.0,1,Semi-Furnished,53.4
+281,Uppal,892,2,3.0,10.0,2,Unfurnished,17.96
+1008,Banjara Hills,1158,2,3.0,9.0,2,Fully-Furnished,44.83
+652,Kondapur,2689,4,4.0,5.0,2,Unfurnished,56.03
+1485,LB Nagar,3250,4,4.0,24.0,0,Semi-Furnished,36.9
+1900,LB Nagar,2413,4,3.0,8.0,1,Fully-Furnished,37.75
+1589,Gachibowli,3168,5,5.0,18.0,1,Semi-Furnished,62.69
+1227,Madhapur,2400,3,3.0,7.0,1,Unfurnished,51.97
+1427,Kondapur,1409,2,3.0,19.0,1,Fully-Furnished,31.87
+1365,Miyapur,662,1,1.0,1.0,1,Fully-Furnished,16.66
+993,Uppal,1847,2,1.0,22.0,2,Fully-Furnished,26.79
+366,Gachibowli,1811,3,3.0,13.0,2,Semi-Furnished,44.4
+24,Uppal,1593,1,2.0,7.0,1,Unfurnished,21.91
+1370,Kukatpally,2884,4,4.0,12.0,1,Unfurnished,51.66
+677,Miyapur,1072,1,1.0,2.0,2,Semi-Furnished,19.87
+999,Kondapur,1531,2,2.0,9.0,0,Unfurnished,24.63
+1190,Kukatpally,1564,3,3.0,0.0,1,Unfurnished,27.54
+1359,Kukatpally,2470,3,3.0,9.0,1,Semi-Furnished,43.88
+311,Madhapur,3211,4,4.0,17.0,0,Unfurnished,59.15
+1061,Gachibowli,1200,2,1.0,22.0,0,Unfurnished,18.59
+641,Gachibowli,3186,4,4.0,12.0,1,Fully-Furnished,75.86
+1378,Kukatpally,1536,2,1.0,24.0,1,Unfurnished,16.5
+1404,Kukatpally,3194,5,5.0,24.0,1,Unfurnished,48.28
+241,Madhapur,1946,3,2.0,23.0,0,Fully-Furnished,41.84
+667,Kukatpally,924,2,1.0,3.0,1,Unfurnished,14.18
+1343,Secunderabad,1081,2,3.0,16.0,2,Unfurnished,19.84
+1795,Kondapur,2519,3,2.0,4.0,2,Semi-Furnished,45.45
+1287,LB Nagar,799,2,3.0,10.0,1,Semi-Furnished,18.63
+168,Miyapur,1042,2,2.0,3.0,1,Unfurnished,16.8
+497,LB Nagar,1580,2,3.0,12.0,0,Semi-Furnished,22.51
+1114,Jubilee Hills,2978,5,5.0,19.0,1,Unfurnished,84.57
+715,LB Nagar,2930,5,4.0,12.0,1,Unfurnished,36.44
+1540,Madhapur,3179,5,5.0,12.0,1,Unfurnished,64.05
+1708,Secunderabad,2494,4,3.0,0.0,0,Fully-Furnished,43.28
+332,LB Nagar,1843,2,2.0,1.0,1,Semi-Furnished,23.4
+220,Banjara Hills,1267,2,2.0,15.0,1,Unfurnished,33.39
+434,Madhapur,1553,2,2.0,4.0,0,Fully-Furnished,37.2
+1948,Uppal,3249,5,4.0,20.0,2,Semi-Furnished,44.64
+1738,Gachibowli,2993,4,4.0,17.0,1,Unfurnished,52.57
+487,Gachibowli,1992,3,2.0,12.0,1,Unfurnished,33.42
+1538,Miyapur,1428,2,2.0,23.0,1,Semi-Furnished,22.11
+532,Secunderabad,682,1,2.0,14.0,2,Semi-Furnished,18.21
+1765,Kukatpally,2993,4,4.0,19.0,0,Semi-Furnished,44.25
+261,Kondapur,682,1,2.0,18.0,1,Semi-Furnished,19.96
+811,Madhapur,2678,3,3.0,15.0,1,Unfurnished,55.08
+306,Gachibowli,1531,2,2.0,19.0,0,Unfurnished,27.2
+1715,Banjara Hills,3106,5,5.0,23.0,1,Semi-Furnished,86.01
+197,Kukatpally,648,1,1.0,18.0,2,Semi-Furnished,15.38
+1165,Miyapur,1736,2,1.0,23.0,1,Fully-Furnished,28.82
+1619,Miyapur,2505,3,2.0,8.0,2,Unfurnished,33.88
+1147,Kondapur,2063,4,4.0,20.0,0,Fully-Furnished,41.0
+495,Kukatpally,2295,4,5.0,16.0,2,Semi-Furnished,43.37
+111,Gachibowli,761,1,1.0,8.0,1,Fully-Furnished,21.36
+1109,LB Nagar,1487,2,3.0,25.0,1,Semi-Furnished,24.27
+1666,LB Nagar,3323,4,5.0,18.0,0,Fully-Furnished,46.35
+514,Miyapur,559,1,1.0,15.0,2,Semi-Furnished,14.1
+692,Uppal,2569,4,3.0,8.0,1,Fully-Furnished,38.37
+1507,Gachibowli,2299,4,5.0,13.0,0,Unfurnished,50.5
+370,LB Nagar,1021,1,1.0,12.0,1,Semi-Furnished,14.89
+1958,Secunderabad,712,1,1.0,5.0,2,Semi-Furnished,16.29
+794,Madhapur,2047,3,3.0,19.0,2,Fully-Furnished,49.69
+1099,Banjara Hills,500,1,2.0,22.0,2,Unfurnished,17.57
+1544,Kukatpally,522,1,2.0,3.0,2,Unfurnished,15.78
+1842,Kondapur,615,1,1.0,17.0,0,Fully-Furnished,15.87
+927,Kondapur,1161,2,1.0,14.0,2,Semi-Furnished,23.98
+274,LB Nagar,2568,4,5.0,5.0,0,Semi-Furnished,38.46
+397,Kondapur,2427,4,3.0,12.0,1,Semi-Furnished,42.94
+1179,Kondapur,3158,5,4.0,1.0,1,Fully-Furnished,67.85
+1216,Secunderabad,1316,1,1.0,12.0,1,Semi-Furnished,20.37
+798,Secunderabad,1074,1,1.0,23.0,0,Unfurnished,11.48
+1299,LB Nagar,2686,3,4.0,20.0,2,Unfurnished,33.73
+1212,Kondapur,1950,4,4.0,8.0,1,Semi-Furnished,45.55
+1075,Uppal,2468,3,2.0,9.0,2,Unfurnished,31.49
+1063,Uppal,2596,4,5.0,17.0,0,Semi-Furnished,36.48
+962,Gachibowli,2881,4,5.0,0.0,0,Fully-Furnished,67.3
+419,Kukatpally,1930,3,2.0,11.0,1,Semi-Furnished,30.1
+1233,LB Nagar,2622,4,4.0,4.0,0,Semi-Furnished,36.67
+464,Banjara Hills,2781,5,5.0,25.0,0,Unfurnished,69.03
+471,LB Nagar,2156,3,3.0,0.0,2,Fully-Furnished,38.36
+1542,Banjara Hills,1405,3,3.0,6.0,1,Fully-Furnished,50.33
+1100,LB Nagar,518,1,1.0,21.0,0,Semi-Furnished,9.92
+1273,Kondapur,1320,1,1.0,6.0,1,Semi-Furnished,26.04
+560,Miyapur,2671,4,4.0,1.0,2,Fully-Furnished,52.5
+303,Gachibowli,2996,4,4.0,10.0,1,Semi-Furnished,59.72
+583,Gachibowli,1080,2,2.0,0.0,0,Semi-Furnished,21.94
+1270,Kukatpally,2432,4,4.0,23.0,1,Semi-Furnished,40.06
+1990,LB Nagar,3036,4,4.0,2.0,1,Semi-Furnished,46.7
+799,LB Nagar,2410,3,2.0,12.0,1,Fully-Furnished,32.72
+12,Banjara Hills,1690,2,2.0,5.0,2,Fully-Furnished,53.1
+1716,Kukatpally,658,2,1.0,25.0,0,Fully-Furnished,15.47
+1510,Secunderabad,2872,4,4.0,0.0,1,Semi-Furnished,50.03
+1487,Gachibowli,1728,2,2.0,6.0,0,Semi-Furnished,32.54
+539,Secunderabad,1636,2,2.0,13.0,0,Fully-Furnished,27.55
+628,Madhapur,2079,3,2.0,20.0,2,Semi-Furnished,43.86
+282,Uppal,924,1,1.0,3.0,2,Semi-Furnished,13.91
+1278,Secunderabad,2077,3,4.0,5.0,1,Unfurnished,38.56
+984,Madhapur,1992,3,3.0,15.0,1,Unfurnished,39.53
+1480,Kukatpally,552,1,1.0,11.0,1,Semi-Furnished,11.62
+224,Kondapur,2702,4,4.0,10.0,1,Semi-Furnished,48.57
+673,Kukatpally,1097,2,1.0,1.0,0,Fully-Furnished,20.37
+1244,Gachibowli,1410,2,3.0,12.0,0,Semi-Furnished,31.41
+967,Uppal,1487,2,3.0,4.0,1,Fully-Furnished,28.86
+1450,Gachibowli,2842,4,4.0,20.0,1,Semi-Furnished,55.41
+1394,Kondapur,1727,3,4.0,21.0,1,Semi-Furnished,35.74
+1094,Kondapur,3326,5,5.0,17.0,1,Fully-Furnished,63.64
+859,Madhapur,3409,5,5.0,22.0,1,Fully-Furnished,75.97
+995,LB Nagar,1476,2,2.0,18.0,1,Semi-Furnished,20.51
+581,Jubilee Hills,1046,1,1.0,1.0,1,Semi-Furnished,32.63
+1046,Uppal,861,1,1.0,13.0,1,Semi-Furnished,15.24
+78,Jubilee Hills,863,1,1.0,6.0,1,Semi-Furnished,30.34
+548,Kondapur,660,1,1.0,12.0,2,Fully-Furnished,21.32
+749,Madhapur,806,1,2.0,19.0,0,Semi-Furnished,21.1
+827,Kondapur,1887,3,4.0,12.0,1,Semi-Furnished,39.58
+126,Miyapur,2193,3,3.0,3.0,1,Fully-Furnished,37.67
+758,Kukatpally,984,2,3.0,15.0,1,Semi-Furnished,24.18
+1067,Gachibowli,1659,3,2.0,19.0,2,Semi-Furnished,37.44
+1541,Gachibowli,3498,5,5.0,16.0,2,Semi-Furnished,64.44
+1597,Uppal,2821,4,4.0,13.0,2,Unfurnished,37.07
+577,Gachibowli,2400,3,3.0,10.0,0,Unfurnished,45.59
+1576,Gachibowli,1536,2,2.0,9.0,2,Semi-Furnished,33.31
+622,Uppal,1131,1,1.0,5.0,1,Semi-Furnished,20.23
+768,Uppal,967,1,1.0,8.0,1,Unfurnished,12.94
+1399,Secunderabad,518,1,1.0,23.0,2,Semi-Furnished,13.36
+1031,Banjara Hills,2507,3,3.0,19.0,1,Unfurnished,62.88
+1843,Kondapur,1360,1,1.0,16.0,2,Unfurnished,22.15
+803,Uppal,1783,2,1.0,1.0,0,Unfurnished,17.52
+845,Madhapur,3093,5,4.0,24.0,2,Unfurnished,59.36
+1518,Miyapur,2142,4,5.0,15.0,1,Fully-Furnished,43.84
+1724,Kondapur,3006,4,4.0,8.0,2,Unfurnished,55.48
+1981,Madhapur,2158,4,4.0,4.0,2,Unfurnished,51.2
+1700,Kukatpally,1917,1,2.0,25.0,1,Fully-Furnished,29.04
+1751,Madhapur,2878,4,3.0,0.0,2,Fully-Furnished,74.61
+260,Kondapur,2291,4,4.0,12.0,2,Semi-Furnished,48.1
+283,Uppal,2676,4,5.0,12.0,1,Fully-Furnished,42.6
+635,Secunderabad,2797,4,4.0,8.0,1,Unfurnished,41.56
+1615,Gachibowli,1567,2,2.0,2.0,1,Unfurnished,32.51
+1916,Kukatpally,778,1,1.0,17.0,1,Semi-Furnished,15.44
+475,Kondapur,1593,3,2.0,14.0,1,Semi-Furnished,31.84
+456,Secunderabad,1422,1,2.0,12.0,2,Semi-Furnished,26.29
+321,Uppal,1734,2,3.0,7.0,0,Fully-Furnished,27.87
+435,Secunderabad,2330,3,4.0,6.0,1,Semi-Furnished,40.09
+1688,Banjara Hills,2347,4,5.0,16.0,1,Semi-Furnished,71.6
+1962,Secunderabad,3300,4,3.0,20.0,1,Semi-Furnished,51.4
+437,Banjara Hills,1804,3,2.0,21.0,0,Fully-Furnished,50.6
+1858,Uppal,2413,3,3.0,17.0,0,Semi-Furnished,29.59
+439,Miyapur,2683,4,3.0,16.0,2,Fully-Furnished,41.03
+326,Secunderabad,2989,5,5.0,6.0,1,Semi-Furnished,52.88
+404,Kukatpally,2750,4,4.0,13.0,1,Semi-Furnished,45.54
+1290,Uppal,1335,2,3.0,21.0,1,Semi-Furnished,22.0
+565,LB Nagar,2028,3,4.0,2.0,1,Semi-Furnished,33.48
+1627,Secunderabad,1383,1,1.0,13.0,0,Fully-Furnished,22.04
+293,Miyapur,1275,2,2.0,8.0,1,Semi-Furnished,23.14
+279,Uppal,2739,4,4.0,12.0,0,Unfurnished,36.61
+656,Kukatpally,2568,3,3.0,7.0,2,Fully-Furnished,44.61
+1779,Secunderabad,1119,1,1.0,25.0,2,Semi-Furnished,19.88
+733,Madhapur,2613,4,4.0,16.0,1,Semi-Furnished,57.07
+1736,LB Nagar,3000,4,4.0,1.0,2,Fully-Furnished,46.92
+554,Gachibowli,1570,3,4.0,12.0,0,Semi-Furnished,34.73
+95,LB Nagar,2186,3,3.0,10.0,0,Fully-Furnished,36.06
+1922,Kondapur,1180,2,2.0,12.0,1,Fully-Furnished,27.56
+1709,Madhapur,990,1,1.0,7.0,1,Semi-Furnished,24.7
+1256,Kukatpally,2543,4,4.0,15.0,1,Semi-Furnished,43.55
+246,Banjara Hills,741,1,1.0,25.0,1,Semi-Furnished,23.28
+946,LB Nagar,1433,1,1.0,11.0,1,Semi-Furnished,18.43
+1192,Kondapur,859,1,1.0,6.0,1,Semi-Furnished,19.4
+1527,Secunderabad,2688,4,4.0,16.0,1,Unfurnished,39.43
+1357,LB Nagar,581,2,2.0,0.0,0,Semi-Furnished,14.16
+1834,Miyapur,826,1,1.0,0.0,2,Unfurnished,13.71
+1759,Banjara Hills,1079,2,2.0,24.0,2,Semi-Furnished,33.97
+776,Madhapur,2149,3,2.0,12.0,2,Unfurnished,41.85
+427,Uppal,3243,5,4.0,14.0,1,Semi-Furnished,37.04
+1566,Miyapur,2076,3,4.0,19.0,2,Semi-Furnished,39.29
+1187,Secunderabad,2742,5,5.0,12.0,0,Semi-Furnished,40.96
+150,Jubilee Hills,2883,4,4.0,17.0,1,Semi-Furnished,82.22
+227,Madhapur,3002,4,5.0,16.0,1,Fully-Furnished,69.76
+866,Uppal,1589,3,3.0,19.0,1,Semi-Furnished,23.15
+968,Kondapur,2299,2,2.0,8.0,1,Semi-Furnished,38.1
+1710,Madhapur,1572,2,1.0,19.0,1,Semi-Furnished,31.98
+1119,Banjara Hills,2181,3,2.0,23.0,2,Semi-Furnished,56.97
+1246,Miyapur,1041,1,3.0,21.0,1,Semi-Furnished,19.43
+1622,LB Nagar,1174,2,2.0,2.0,1,Unfurnished,17.43
+901,Madhapur,1145,1,1.0,2.0,1,Unfurnished,24.63
+700,Madhapur,843,2,1.0,14.0,1,Fully-Furnished,22.72
+1498,Jubilee Hills,1964,2,3.0,7.0,2,Unfurnished,60.46
+602,Uppal,1705,3,2.0,1.0,2,Semi-Furnished,26.64
+1292,Jubilee Hills,2127,3,2.0,9.0,2,Semi-Furnished,60.7
+1059,Kukatpally,2212,4,5.0,6.0,0,Fully-Furnished,40.86
+218,LB Nagar,2008,2,2.0,16.0,0,Fully-Furnished,25.67
+1097,Miyapur,1856,3,4.0,5.0,1,Unfurnished,33.07
+818,Banjara Hills,3248,4,5.0,18.0,0,Semi-Furnished,86.09
+221,Gachibowli,2544,4,4.0,13.0,1,Unfurnished,53.06
+214,Miyapur,1319,2,2.0,23.0,1,Unfurnished,17.71
+1891,Kondapur,720,1,1.0,2.0,1,Fully-Furnished,21.13
+908,Kondapur,3097,4,4.0,22.0,1,Semi-Furnished,53.18
+395,Secunderabad,2696,4,3.0,1.0,0,Semi-Furnished,37.42
+1647,Miyapur,2259,3,2.0,4.0,1,Semi-Furnished,31.88
+925,Secunderabad,3161,5,5.0,22.0,0,Semi-Furnished,45.24
+1879,Madhapur,2874,4,4.0,12.0,2,Semi-Furnished,58.0
+1368,Jubilee Hills,615,1,1.0,16.0,2,Semi-Furnished,23.93
+1223,Gachibowli,1963,3,2.0,24.0,2,Semi-Furnished,38.5
+1750,Secunderabad,1119,2,3.0,10.0,0,Fully-Furnished,24.53
+1721,Miyapur,2552,4,4.0,11.0,1,Semi-Furnished,41.1
+235,Kukatpally,2952,4,4.0,12.0,0,Semi-Furnished,46.71
+696,LB Nagar,2403,4,5.0,22.0,1,Fully-Furnished,40.48
+1445,Secunderabad,2731,4,5.0,12.0,1,Semi-Furnished,43.16
+1085,Banjara Hills,1316,2,2.0,0.0,1,Unfurnished,36.47
+1909,Madhapur,1493,2,2.0,13.0,1,Unfurnished,27.82
+1810,Banjara Hills,2718,5,5.0,23.0,2,Unfurnished,67.69
+1322,Banjara Hills,766,1,1.0,1.0,1,Semi-Furnished,26.58
+64,Secunderabad,2602,4,3.0,25.0,0,Semi-Furnished,35.93
+735,LB Nagar,1777,3,3.0,16.0,0,Semi-Furnished,23.99
+1024,Uppal,1271,2,2.0,23.0,1,Fully-Furnished,21.35
+965,Gachibowli,2231,3,3.0,7.0,1,Semi-Furnished,49.75
+608,Banjara Hills,1484,2,3.0,7.0,1,Fully-Furnished,46.42
+14,Madhapur,1505,2,1.0,14.0,1,Semi-Furnished,31.02
+840,Banjara Hills,689,2,2.0,10.0,1,Fully-Furnished,28.42
+436,Gachibowli,2655,5,5.0,18.0,1,Unfurnished,53.0
+18,Banjara Hills,852,3,3.0,16.0,1,Unfurnished,26.59
+765,Secunderabad,1733,2,2.0,12.0,1,Fully-Furnished,31.25
+1514,Secunderabad,1680,3,3.0,12.0,1,Semi-Furnished,32.6
+1783,Uppal,1796,3,3.0,16.0,1,Unfurnished,24.47
+1804,Miyapur,2640,4,5.0,5.0,1,Semi-Furnished,43.26
+349,Kondapur,716,2,1.0,23.0,2,Unfurnished,14.09
+208,Madhapur,2075,3,3.0,0.0,2,Semi-Furnished,54.52
+1115,LB Nagar,1226,2,1.0,1.0,2,Fully-Furnished,24.66
+1332,Banjara Hills,2460,3,3.0,0.0,1,Semi-Furnished,72.0
+1405,Uppal,1078,2,3.0,14.0,2,Semi-Furnished,23.3
+345,Gachibowli,3383,5,5.0,19.0,0,Fully-Furnished,67.36
+1496,LB Nagar,3420,5,4.0,12.0,2,Semi-Furnished,46.37
+1831,Gachibowli,2676,4,4.0,7.0,1,Fully-Furnished,63.53
+1870,Gachibowli,1160,2,2.0,6.0,1,Unfurnished,24.3
+552,Madhapur,1159,2,1.0,14.0,2,Semi-Furnished,27.7
+599,Gachibowli,3159,4,4.0,5.0,0,Unfurnished,57.55
+1718,Madhapur,1185,1,1.0,17.0,1,Unfurnished,21.53
+33,Kukatpally,659,1,1.0,15.0,2,Semi-Furnished,15.4
+373,Miyapur,1435,2,3.0,4.0,1,Unfurnished,24.28
+658,Uppal,2253,4,5.0,6.0,2,Semi-Furnished,44.34
+1695,Gachibowli,2052,2,1.0,0.0,1,Semi-Furnished,39.62
+173,Kukatpally,889,2,2.0,21.0,0,Semi-Furnished,17.08
+1087,Kondapur,1355,1,1.0,21.0,0,Unfurnished,16.92
+1882,Madhapur,904,1,1.0,16.0,1,Unfurnished,17.64
+409,Madhapur,1868,3,3.0,12.0,0,Semi-Furnished,35.12
+1051,Gachibowli,1366,3,2.0,19.0,1,Unfurnished,24.17
+1938,Miyapur,2338,3,4.0,17.0,1,Fully-Furnished,41.67
+201,Uppal,1382,2,1.0,21.0,1,Unfurnished,14.11
+1317,Madhapur,2409,3,4.0,14.0,1,Fully-Furnished,58.45
+861,Kondapur,788,1,1.0,7.0,0,Semi-Furnished,12.45
+1608,Miyapur,2774,5,5.0,20.0,2,Semi-Furnished,46.1
+1535,LB Nagar,970,1,3.0,3.0,1,Fully-Furnished,18.24
+1166,Secunderabad,1073,2,2.0,17.0,1,Unfurnished,17.81
+1873,Kukatpally,2829,4,3.0,20.0,0,Unfurnished,38.4
+1914,Kondapur,3018,4,4.0,22.0,0,Fully-Furnished,51.66
+1362,Madhapur,3319,5,4.0,18.0,2,Unfurnished,68.37
+1999,Kondapur,1008,2,2.0,5.0,1,Semi-Furnished,23.62
+490,Kondapur,1370,1,1.0,8.0,0,Semi-Furnished,23.14
+1911,Kukatpally,3083,5,5.0,4.0,1,Semi-Furnished,53.72
+213,LB Nagar,1319,1,1.0,13.0,1,Semi-Furnished,17.24
+134,Uppal,629,1,3.0,24.0,1,Semi-Furnished,12.34
+61,Miyapur,2993,4,4.0,6.0,1,Fully-Furnished,48.68
+691,Gachibowli,2037,3,4.0,4.0,1,Fully-Furnished,48.9
+27,Secunderabad,2304,4,5.0,17.0,2,Semi-Furnished,43.41
+101,Kondapur,3317,5,5.0,12.0,1,Unfurnished,56.2
+1556,Gachibowli,2175,3,3.0,2.0,1,Unfurnished,42.23
+1613,Gachibowli,2173,3,3.0,8.0,1,Unfurnished,43.59
+975,Miyapur,1585,3,2.0,12.0,1,Semi-Furnished,24.56
+777,Miyapur,2398,4,4.0,18.0,1,Semi-Furnished,36.04
+789,LB Nagar,2913,4,4.0,12.0,1,Unfurnished,32.29
+521,Miyapur,1599,3,3.0,9.0,0,Semi-Furnished,27.37
+364,Uppal,2707,3,4.0,15.0,2,Fully-Furnished,44.21
+310,Gachibowli,907,1,1.0,24.0,2,Semi-Furnished,21.33
+796,LB Nagar,3361,5,5.0,0.0,2,Unfurnished,50.35
+829,Uppal,3004,4,4.0,6.0,2,Semi-Furnished,44.39
+1629,Kondapur,670,2,1.0,21.0,1,Semi-Furnished,14.23
+1277,Gachibowli,3446,5,5.0,4.0,1,Unfurnished,73.8
+545,Jubilee Hills,1519,2,3.0,21.0,1,Semi-Furnished,47.53
+940,LB Nagar,1132,2,3.0,8.0,1,Unfurnished,20.7
+1506,Miyapur,1317,2,2.0,0.0,2,Unfurnished,19.9
+442,Kondapur,2399,3,3.0,7.0,2,Fully-Furnished,48.99
+648,Jubilee Hills,2746,4,4.0,16.0,2,Unfurnished,75.91
+1004,Miyapur,2721,3,2.0,22.0,1,Fully-Furnished,34.23
+477,Miyapur,1197,1,1.0,2.0,1,Unfurnished,16.1
+1047,Kondapur,940,1,1.0,11.0,2,Unfurnished,18.51
+63,Kondapur,1132,1,2.0,6.0,1,Unfurnished,20.7
+484,Jubilee Hills,1513,3,3.0,22.0,1,Semi-Furnished,46.84
+1752,Uppal,2880,5,5.0,20.0,0,Unfurnished,32.38
+1027,Gachibowli,1078,2,2.0,12.0,2,Unfurnished,25.44
+1811,Kondapur,2251,3,2.0,13.0,1,Fully-Furnished,40.44
+1282,Banjara Hills,840,1,1.0,0.0,0,Semi-Furnished,23.05
+53,Miyapur,1965,3,3.0,4.0,0,Unfurnished,27.52
+243,Miyapur,2612,3,3.0,10.0,2,Unfurnished,37.7
+1198,Kondapur,1903,4,3.0,18.0,2,Unfurnished,35.13
+36,Kukatpally,2235,3,3.0,17.0,2,Unfurnished,33.47
+1203,Secunderabad,506,1,1.0,18.0,2,Unfurnished,10.89
+1704,Kondapur,3003,4,5.0,6.0,1,Semi-Furnished,59.3
+739,Miyapur,1511,2,3.0,20.0,2,Fully-Furnished,32.76
+121,Secunderabad,541,1,1.0,10.0,0,Semi-Furnished,10.98
+1952,Secunderabad,1934,2,3.0,12.0,1,Fully-Furnished,38.77
+1300,Gachibowli,1495,3,3.0,12.0,2,Fully-Furnished,44.0
+1020,Kukatpally,2346,4,4.0,12.0,0,Semi-Furnished,41.72
+45,Secunderabad,3317,4,3.0,9.0,2,Fully-Furnished,50.46
+1325,Madhapur,2793,4,4.0,15.0,0,Unfurnished,59.62
+837,Uppal,1485,2,2.0,24.0,0,Fully-Furnished,24.73
+77,Jubilee Hills,1771,2,2.0,4.0,1,Unfurnished,47.38
+1745,Gachibowli,1489,2,3.0,20.0,1,Semi-Furnished,32.41
+369,Kukatpally,1022,1,1.0,10.0,1,Fully-Furnished,20.65
+1237,Kondapur,862,1,1.0,6.0,1,Unfurnished,15.6
+268,Miyapur,1093,2,1.0,9.0,1,Semi-Furnished,16.58
+1336,Jubilee Hills,1382,2,2.0,24.0,1,Semi-Furnished,41.07
+729,Kondapur,3227,5,5.0,2.0,1,Unfurnished,58.79
+445,Banjara Hills,948,1,2.0,14.0,1,Semi-Furnished,29.54
+504,Miyapur,3245,5,4.0,3.0,1,Unfurnished,42.55
+1520,Miyapur,2446,4,4.0,12.0,2,Unfurnished,39.36
+1058,Uppal,2347,2,1.0,15.0,0,Fully-Furnished,27.57
+1034,Kukatpally,3498,5,5.0,11.0,1,Semi-Furnished,62.26
+1713,Madhapur,2223,2,2.0,12.0,1,Semi-Furnished,46.58
+1185,Miyapur,2323,3,4.0,7.0,0,Unfurnished,33.6
+286,Banjara Hills,1620,3,4.0,17.0,1,Semi-Furnished,49.2
+296,Gachibowli,3492,5,5.0,5.0,1,Fully-Furnished,78.29
+1641,Kondapur,2205,3,4.0,22.0,2,Semi-Furnished,39.3
+1849,Jubilee Hills,2292,3,3.0,2.0,2,Semi-Furnished,69.58
+626,Kukatpally,704,1,1.0,12.0,1,Semi-Furnished,14.23
+278,Madhapur,604,2,2.0,17.0,1,Semi-Furnished,20.59
+1939,Miyapur,2487,4,3.0,20.0,2,Semi-Furnished,36.31
+1628,Kondapur,1040,1,2.0,16.0,2,Semi-Furnished,24.43
+485,Banjara Hills,726,1,1.0,6.0,1,Unfurnished,20.68
+1521,LB Nagar,2197,4,4.0,25.0,1,Semi-Furnished,32.12
+183,Gachibowli,2453,4,5.0,23.0,0,Semi-Furnished,50.69
+971,Secunderabad,2155,3,3.0,22.0,2,Semi-Furnished,33.56
+1852,Miyapur,1927,3,3.0,25.0,0,Fully-Furnished,33.13
+1989,Madhapur,1604,3,3.0,3.0,0,Semi-Furnished,37.69
+685,Secunderabad,1465,2,1.0,15.0,2,Semi-Furnished,22.42
+1769,Gachibowli,2124,3,4.0,5.0,2,Semi-Furnished,50.4
+37,Jubilee Hills,2085,3,3.0,19.0,0,Fully-Furnished,61.51
+1181,LB Nagar,2620,3,3.0,24.0,1,Semi-Furnished,30.29
+755,Kukatpally,975,1,1.0,14.0,1,Fully-Furnished,19.86
+509,Miyapur,3083,5,5.0,25.0,1,Fully-Furnished,52.51
+498,LB Nagar,1440,2,2.0,5.0,1,Fully-Furnished,25.59
+309,LB Nagar,2590,3,2.0,14.0,1,Fully-Furnished,34.03
+1314,Kondapur,1156,2,2.0,17.0,2,Semi-Furnished,24.66
+1585,Kukatpally,1982,4,4.0,0.0,1,Unfurnished,37.06
+1439,Kukatpally,2922,4,4.0,20.0,1,Semi-Furnished,44.24
+1446,Kondapur,2658,4,4.0,2.0,2,Semi-Furnished,54.74
+142,LB Nagar,2800,4,3.0,0.0,1,Semi-Furnished,36.94
+1248,Madhapur,2669,4,4.0,8.0,0,Fully-Furnished,62.07
+865,Kukatpally,2453,4,4.0,12.0,1,Semi-Furnished,45.54
+184,Gachibowli,3325,5,5.0,3.0,2,Unfurnished,65.64
+1974,Miyapur,3273,5,5.0,10.0,1,Semi-Furnished,53.63
+1011,Secunderabad,3152,5,5.0,0.0,1,Semi-Furnished,54.2
+913,Uppal,3249,5,5.0,12.0,2,Unfurnished,41.19
+1697,Jubilee Hills,1613,2,2.0,4.0,2,Semi-Furnished,52.54
+849,Banjara Hills,837,1,1.0,19.0,2,Unfurnished,22.86
+512,Jubilee Hills,2438,4,3.0,20.0,0,Semi-Furnished,60.79
+1937,Miyapur,841,1,1.0,23.0,1,Unfurnished,11.75
+732,Kondapur,946,1,1.0,21.0,1,Unfurnished,14.46
+997,Secunderabad,1227,1,1.0,1.0,1,Unfurnished,17.21
+1917,Miyapur,3424,5,5.0,12.0,2,Fully-Furnished,55.48
+1772,Uppal,2858,4,3.0,5.0,1,Unfurnished,37.12
+888,Secunderabad,2690,2,1.0,4.0,1,Fully-Furnished,38.03
+118,LB Nagar,989,2,3.0,6.0,2,Semi-Furnished,23.62
+1878,Gachibowli,2538,3,2.0,15.0,1,Unfurnished,41.82
+1026,Jubilee Hills,2623,3,3.0,21.0,2,Fully-Furnished,79.28
+114,Madhapur,2690,4,3.0,5.0,2,Semi-Furnished,56.57
+546,Kondapur,1641,3,3.0,19.0,0,Fully-Furnished,32.45
+1711,Secunderabad,3111,4,3.0,15.0,0,Semi-Furnished,41.17
+1790,Secunderabad,1770,2,1.0,21.0,1,Semi-Furnished,24.41
+166,Gachibowli,627,1,1.0,4.0,1,Fully-Furnished,19.24
+185,Madhapur,2892,4,5.0,16.0,2,Unfurnished,67.16
+1702,Miyapur,2814,4,3.0,0.0,2,Unfurnished,43.57
+1397,Jubilee Hills,1809,3,4.0,0.0,0,Semi-Furnished,60.4
+275,Madhapur,3101,5,3.0,10.0,1,Semi-Furnished,73.69
+1002,Banjara Hills,2879,4,5.0,16.0,1,Semi-Furnished,87.51
+705,Kondapur,2227,4,5.0,12.0,2,Semi-Furnished,51.15
+1025,LB Nagar,1929,3,2.0,10.0,1,Fully-Furnished,30.54
+1591,Kukatpally,1696,2,2.0,0.0,0,Fully-Furnished,30.8
+1912,Uppal,789,1,2.0,13.0,0,Semi-Furnished,14.89
+1565,Kondapur,1523,3,2.0,20.0,1,Fully-Furnished,30.63
+1525,Secunderabad,3458,4,3.0,8.0,1,Unfurnished,51.87
+1743,Kukatpally,2257,3,3.0,6.0,0,Semi-Furnished,36.91
+384,Secunderabad,1185,1,1.0,13.0,2,Semi-Furnished,19.38
+1430,Madhapur,1813,3,3.0,21.0,2,Fully-Furnished,43.04
+562,Uppal,2684,3,2.0,13.0,2,Semi-Furnished,35.78
+863,Secunderabad,3440,5,5.0,21.0,0,Semi-Furnished,54.92
+1045,Secunderabad,1990,3,4.0,20.0,1,Semi-Furnished,34.33
+1830,Banjara Hills,2022,3,4.0,12.0,1,Semi-Furnished,60.18
+177,Gachibowli,753,1,1.0,25.0,2,Unfurnished,15.0
+1360,Gachibowli,2210,3,2.0,2.0,2,Semi-Furnished,45.79
+380,Madhapur,3337,5,5.0,2.0,1,Semi-Furnished,83.9
+1570,Banjara Hills,2497,4,5.0,14.0,2,Fully-Furnished,78.0
+1196,Jubilee Hills,1641,2,1.0,8.0,2,Semi-Furnished,45.93
+1017,Uppal,1004,1,1.0,19.0,1,Semi-Furnished,14.91
+520,Jubilee Hills,1632,2,3.0,5.0,1,Unfurnished,47.33
+831,Jubilee Hills,1749,2,3.0,19.0,2,Semi-Furnished,45.61
+508,Gachibowli,3313,5,5.0,7.0,1,Semi-Furnished,72.28
+1177,Jubilee Hills,2181,4,4.0,2.0,1,Fully-Furnished,68.29
+1643,Banjara Hills,2722,5,5.0,5.0,2,Unfurnished,83.86
+414,Gachibowli,712,1,1.0,3.0,1,Fully-Furnished,19.45
+1634,Madhapur,2777,4,5.0,11.0,1,Unfurnished,63.42
+623,Gachibowli,1405,2,2.0,10.0,1,Unfurnished,25.99
+873,Miyapur,3001,3,4.0,13.0,2,Fully-Furnished,46.09
+1606,Uppal,855,2,2.0,22.0,2,Unfurnished,15.79
+1972,Kondapur,1476,2,2.0,13.0,1,Fully-Furnished,33.83
+642,Uppal,1922,2,1.0,13.0,2,Semi-Furnished,26.26
+1341,LB Nagar,3367,5,5.0,8.0,1,Unfurnished,43.8
+1984,LB Nagar,3300,4,4.0,12.0,1,Unfurnished,37.3
+259,Jubilee Hills,2855,4,4.0,25.0,2,Unfurnished,80.26
+835,Kukatpally,975,2,1.0,13.0,1,Semi-Furnished,18.27
+663,Madhapur,1352,3,3.0,18.0,0,Semi-Furnished,33.79
+1499,Kondapur,1490,2,3.0,21.0,0,Semi-Furnished,28.65
+338,Jubilee Hills,859,1,2.0,19.0,2,Fully-Furnished,32.32
+1563,Kukatpally,3418,4,4.0,3.0,1,Semi-Furnished,55.79
+1529,Kondapur,2724,3,3.0,22.0,2,Semi-Furnished,44.66
+399,Jubilee Hills,2785,4,4.0,6.0,2,Semi-Furnished,90.17
+1448,Kukatpally,3055,4,4.0,15.0,1,Semi-Furnished,48.11
+606,Jubilee Hills,2119,3,2.0,0.0,2,Semi-Furnished,67.24
+1965,Kondapur,3485,5,5.0,15.0,1,Unfurnished,62.47
+1685,Gachibowli,1627,2,1.0,6.0,2,Semi-Furnished,34.37
+481,Miyapur,1543,2,2.0,25.0,0,Semi-Furnished,19.81
+1447,Uppal,2450,3,3.0,3.0,1,Unfurnished,31.94
+1144,Madhapur,709,1,1.0,22.0,2,Semi-Furnished,21.24
+918,Kukatpally,1095,2,3.0,3.0,1,Semi-Furnished,28.07
+1675,Kukatpally,2704,4,5.0,23.0,0,Semi-Furnished,43.44
+1706,Uppal,1506,2,1.0,25.0,1,Fully-Furnished,20.91
+1018,LB Nagar,678,1,1.0,14.0,2,Semi-Furnished,13.93
+876,Secunderabad,623,1,1.0,14.0,1,Unfurnished,10.76
+1739,Jubilee Hills,2757,4,5.0,23.0,2,Semi-Furnished,74.23
+660,Kukatpally,2438,3,2.0,23.0,1,Semi-Furnished,33.83
+1022,Secunderabad,2895,3,2.0,23.0,2,Semi-Furnished,40.74
+790,Kondapur,2281,2,3.0,8.0,1,Semi-Furnished,42.71
+257,Jubilee Hills,1202,2,1.0,24.0,0,Unfurnished,27.68
+969,Secunderabad,3061,4,4.0,2.0,1,Semi-Furnished,49.93
+953,Banjara Hills,764,1,1.0,24.0,1,Fully-Furnished,24.63
+1668,LB Nagar,3276,4,4.0,12.0,2,Unfurnished,41.67
+1274,Madhapur,1902,3,3.0,3.0,1,Semi-Furnished,45.23
+1689,Miyapur,3155,4,4.0,7.0,1,Semi-Furnished,49.86
+1899,Miyapur,3383,4,4.0,8.0,1,Unfurnished,46.79
